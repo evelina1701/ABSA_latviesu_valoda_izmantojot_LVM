@@ -1,0 +1,4390 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Reviews>
+    <Review rid="lv_OPaps_000000001">
+        <sentences>
+            <sentence id="lv_OPaps_000000001:0">
+                <text>Lieliska vieta vakariņām.</text>
+                <Opinions>
+                    <Opinion target="vieta" category="RESTAURANT#GENERAL" polarity="" from="9" to="14" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_OPaps_000000001:1">
+                <text>Ļoti draudzīgas cenas ēdieniem un laba vietējā alus izlase. </text>
+                <Opinions>
+                    <Opinion target="ēdieniem" category="FOOD#PRICES" polarity="" from="22" to="30" />
+					<Opinion target="alus izlase" category="FOOD#STYLE_OPTIONS" polarity="" from="47" to="58" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_OPaps_000000001:2">
+                <text>Ēdieniem īpaši garda un augstvērtīga lielopa gaļa.</text>
+                <Opinions>
+                    <Opinion target="lielopa gaļa" category="FOOD#QUALITY" polarity="" from="37" to="49" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_OPaps_000000001:3">
+                <text>Perfekta apkalpošana, prot ieteikt lieliskus ēdienus.</text>
+                <Opinions>
+                    <Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="9" to="20" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="lv_OPaps_000000002">
+        <sentences>
+            <sentence id="lv_OPaps_000000002:0">
+                <text>Ļoti garšīgi ēdieni un dzērieni. </text>
+                <Opinions>
+                    <Opinion target="ēdieni" category="FOOD#QUALITY" polarity="" from="13" to="19" />
+					<Opinion target="dzērieni" category="DRINKS#QUALITY" polarity="" from="23" to="31" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_OPaps_000000002:1">
+                <text>Vienīgi cenas pēdējā laikā diezgan palielinājušās. </text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_OPaps_000000002:2">
+                <text>Latvijas alus ir labā cenā, bet izlejamais importa alus jau maksā ap 7€ par puslitru.</text>
+                <Opinions>
+                    <Opinion target="Latvijas alus" category="FOOD#PRICES" polarity="" from="0" to="13" />
+					<Opinion target="izlejamais importa alus" category="FOOD#PRICES" polarity="" from="32" to="55" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_OPaps_000000002:3">
+                <text>Cepelīni garšīgi, teikšu, ka pagaidām labākie, kurus Latvijā esmu ēdis.</text>
+                <Opinions>
+                    <Opinion target="Cepelīni" category="FOOD#QUALITY" polarity="" from="0" to="8" />
+                </Opinions>
+            </sentence>
+		    <sentence id="lv_OPaps_00000002:4">
+                <text>Baraviku zupa garšīga, bet, manuprāt, 11€ ir mazliet par dārgu priekš šīs zupas un tās daudzuma.</text>
+                <Opinions>
+                    <Opinion target="Baraviku zupa" category="FOOD#QUALITY" polarity="" from="0" to="13" />
+					<Opinion target="Baraviku zupa" category="FOOD#PRICES" polarity="" from="0" to="13" />
+                </Opinions>
+            </sentence>
+		    <sentence id="lv_OPaps_000000002:5">
+                <text>Ķiploku grauzdiņi ir ļoti gardi un viegli.</text>
+                <Opinions>
+                    <Opinion target="Ķiploku grauzdiņi" category="FOOD#QUALITY" polarity="" from="0" to="17" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="lv_GanBei_000000001">
+        <sentences>
+            <sentence id="lv_GanBei_000000001:0">
+                <text>Paldies par jauku apkalpošanu , gardiem ēdieniem un dzērieniem. </text>
+                <Opinions>
+                    <Opinion target="apkalpošanu" category="SERVICE#GENERAL" polarity="" from="18" to="29" />
+					<Opinion target="ēdieniem" category="FOOD#QUALITY" polarity="" from="40" to="48" />
+					<Opinion target="dzērieniem" category="DRINKS#QUALITY" polarity="" from="52" to="62" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_GanBei_000000001:1">
+                <text>Apkalpošana uz visiem 100! </text>
+                <Opinions>
+                    <Opinion target="Apkalpošana" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_GanBei_000000001:2" OutOfScope="TRUE">
+                <text>Nepajautājām puisim vārdu, bet paldies par izcilu servisu.</text>
+				<Opinions />
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="lv_GanBei_000000002">
+        <sentences>
+            <sentence id="lv_GanBei_000000002:0">
+                <text>Jauks vasaras izskaņas  pasākums- vakariņas Gan bei.</text>
+                <Opinions>
+                    <Opinion target="Gan bei" category="RESTAURANT#GENERAL" polarity="" from="44" to="51" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_GanBei_000000002:1">
+                <text>Garšīgi un patīkami!</text>
+                <Opinions>
+                    <Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="lv_GanBei_000000003">
+        <sentences>
+            <sentence id="lv_GanBei_000000003:0">
+                <text>Laipna un ļoti ātra apkalpošana.</text>
+                <Opinions>
+                    <Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="20" to="31" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_GanBei_000000003:1">
+                <text>Izvelējāmies gan uzkodas, gan pamatēdienus, gan desertus un dzērienus.</text>
+                <Opinions />
+            </sentence>
+            <sentence id="lv_GanBei_000000003:2">
+                <text>Viss bija izcili garšīgs.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_GanBei_000000003:3">
+                <text>Biju sajūsmā par bezalkoholisko dzērienu izvēli un garšu.</text>
+                <Opinions>
+                    <Opinion target="bezalkoholisko dzērienu" category="DRINKS#STYLE_OPTIONS" polarity="" from="17" to="40" />
+					<Opinion target="bezalkoholisko dzērienu" category="DRINKS#QUALITY" polarity="" from="17" to="40" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_GanBei_000000003:4">
+                <text>Ļoti jauka atmosfēra.</text>
+                <Opinions>
+                    <Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="11" to="20" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="lv_Ogle_000000001">
+        <sentences>
+            <sentence id="lv_Ogle_000000001:0">
+                <text>Var teikt tikai labākos komplimentus par šo vietu.</text>
+                <Opinions>
+                    <Opinion target="vietu" category="RESTAURANT#GENERAL" polarity="" from="44" to="49" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_Ogle_000000001:1">
+                <text>Pašā vecrīgas sirdī, par spīti milzīgajam apmeklētāju skaitam, ir netikai saglabājusi kvalitāti, bet pat paaugstinājusi, kopš mana pēdējā apmeklējuma gadu atpakaļ.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+            </sentence>
+            <sentence id="lv_Ogle_000000001:2">
+                <text>Ēdiens ļoti gards, izvēles ziņā pietiekošs piedāvājums, cenas ziņā ap vidējām restorāna cenām, bet nenožēloju nevienu centu, par gardu, kvalitatīvu ēdienu.</text>
+                <Opinions>
+                    <Opinion target="Ēdiens" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+					<Opinion target="piedāvājums" category="FOOD#STYLE_OPTIONS" polarity="" from="43" to="54" />
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_Ogle_000000001:3">
+                <text>Pēc ilgāka laika fondantā sajutu tās garšas, ko parasti meklēju, izcils garšas salikums.</text>
+                <Opinions>
+                    <Opinion target="fondantā" category="FOOD#QUALITY" polarity="" from="17" to="25" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_Ogle_000000001:4">
+                <text>Serviss ļoti labs, darbinieki smaidīgi, atsaucīgi.</text>
+                <Opinions>
+                    <Opinion target="Serviss" category="SERVICE#GENERAL" polarity="" from="0" to="7" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_Ogle_000000001:5">
+                <text>Noteikti nākšu vēl.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_Ogle_000000001:6">
+                <text>Dienas vidus vasaras sezonā ļoti pilns, noteikto jārezervē vieta.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_Ogle_000000001:7">
+                <text>Jārēķinās arī ar ilgāku gaidīšanas laiku siltajā sezonā.</text>
+                <Opinions>
+                    <Opinion target="gaidīšanas laiku" category="SERVICE#GENERAL" polarity="" from="24" to="40" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_Ogle_000000001:8">
+                <text>Ļoti daudz tūristu.</text>
+                <Opinions>
+                    <Opinion target="tūristu" category="RESTAURANT#MISCELLANEOUS" polarity="" from="11" to="18" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_Ogle_000000001:9">
+                <text>Pusdienu ēdienkarte no pl.13</text>
+                <Opinions>
+                    <Opinion target="ēdienkarte" category="FOOD#STYLE_OPTIONS" polarity="" from="9" to="19" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="lv_Ogle_000000002">
+        <sentences>
+            <sentence id="lv_Ogle_000000002:0">
+                <text>Bijām apmeklējuši šo restorānu un diemžēl mūsu pieredze bija ļoti vāja.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_Ogle_000000002:1">
+                <text>Mūs apsēdināja pie rezerves izejas, no kuras visu vakaru plūda auksts gaiss, un tas radīja ļoti neērtu atmosfēru.</text>
+                <Opinions>
+                    <Opinion target="atmosfēru" category="AMBIENCE#GENERAL" polarity="" from="103" to="112" />
+				</Opinions>
+            </sentence>
+            <sentence id="lv_Ogle_000000002:2" OutOfScope="TRUE">
+                <text>Turklāt izeja bija nedroša, jo durvju sistēma bija uz "pull" nevis "push" sistēmae, un durvīm trūka roktura.</text>
+                <Opinions />
+            </sentence>
+            <sentence id="lv_Ogle_000000002:3" OutOfScope="TRUE">
+                <text>Vēl durvīm priekšā bija pakaramais, kas neatbilst VUGD prasībām.</text>
+                <Opinions />
+            </sentence>
+            <sentence id="lv_Ogle_000000002:4">
+                <text>Ēdiens, lai arī skaisti noformēts, bija pilnīgi bezgaršīgs.</text>
+                <Opinions>
+                    <Opinion target="Ēdiens" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="6" />
+					<Opinion target="Ēdiens" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_Ogle_000000002:5">
+                <text>Patiešām nekas īpašs.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_Ogle_000000002:6">
+                <text>Turklāt ēdiens bija sildīts, jo pasniegts tika ļoti ātri – 5-10 minūtēs, bet pēc tam mēs gaidījām rēķinu vairāk nekā 30 minūtes, kas bija neciešami garš gaidīšanas laiks.</text>
+                <Opinions>
+                    <Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="8" to="14" />
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_Ogle_000000002:7">
+                <text>Viesmīle visa vakara laikā pat ne reizi nepajautāja, vai viss ir kārtībā, un kad es pats izteicu komentāru, viņa vienkārši noraustīja plecus un neko neteica.</text>
+                <Opinions>
+                    <Opinion target="Viesmīle" category="SERVICE#GENERAL" polarity="" from="0" to="8" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_Ogle_000000002:8">
+                <text>Tas liecināja par pilnīgu vienaldzību pret klientiem.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_Ogle_000000002:9">
+                <text>Iepriekš bijām apmeklējuši šo restorānu divas reizes, un tad pieredze bija lieliska, tāpēc sākotnējā atsauksme bija pozitīva.</text>
+                <Opinions>
+                    <Opinion target="restorānu" category="RESTAURANT#GENERAL" polarity="" from="30" to="39" />
+				</Opinions>
+            </sentence>
+			<sentence id="lv_Ogle_000000002:10">
+                <text>Tomēr šī pieredze pilnībā mainīja manu viedokli.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+            </sentence>
+			<sentence id="lv_Ogle_000000002:11">
+                <text>Varbūt kādreiz atgriezīšos, ja redzēšu, ka attieksme ir mainījusies, tad arī pārskatīšu atsauksmi.</text>
+				<Opinions />
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="lv_Ogle_000000003">
+        <sentences>
+            <sentence id="lv_Ogle_000000003:0">
+                <text>Bija ļoti garšīgi.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_Ogle_000000003:1">
+                <text>Otra porcija - Cēzera salāti  pārsālīti.</text>
+                <Opinions>
+                    <Opinion target="Cēzera salāti" category="FOOD#QUALITY" polarity="" from="15" to="28" />
+				</Opinions>
+            </sentence>
+            <sentence id="lv_Ogle_000000003:2" OutOfScope="TRUE">
+                <text>Pie apkalpošanas, jāpiestrādā, teiksim tā nepieklājīgi.</text>
+				<Opinions>
+                    <Opinion target="apkalpošanas" category="SERVICE#GENERAL" polarity="" from="4" to="16" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="lv_EzitisMigla_000000001">
+        <sentences>
+            <sentence id="lv_EzitisMigla_000000001:0">
+                <text>Pasūtītas kartupeļu pankūkas ar bekonu un parastakie nageti - briesmīgi - viss garšoja pēc vecās eļļas un principā viss bija eļļains.</text>
+                <Opinions>
+                    <Opinion target="kartupeļu pankūkas ar bekonu" category="FOOD#QUALITY" polarity="" from="10" to="38" />
+					<Opinion target="nageti" category="FOOD#QUALITY" polarity="" from="53" to="59" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_EzitisMigla_000000001:1">
+                <text>Sezonālā tēja ar dzērveņu sulu - nenormāla salda.</text>
+                <Opinions>
+                    <Opinion target="Sezonālā tēja ar dzērveņu sulu" category="FOOD#QUALITY" polarity="" from="0" to="30" />
+				</Opinions>
+            </sentence>
+            <sentence id="lv_EzitisMigla_000000001:2">
+                <text>Lūdzu papildus pieliet karsto ūdeni, bet pat tas nepalīdzēja.</text>
+                <Opinions />
+            </sentence>
+			<sentence id="lv_EzitisMigla_000000001:3">
+                <text>Sliktākā reize Ezītī.</text>
+                <Opinions>
+                    <Opinion target="Ezītī" category="RESTAURANT#GENERAL" polarity="" from="15" to="20" />
+				</Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="lv_EzitisMigla_000000002">
+        <sentences>
+            <sentence id="lv_EzitisMigla_000000002:0">
+                <text>Pasūtījām divas porcijas Cūkgaļas karbonāde ezīša gaumē, un vienai no porcijām papildus pievienot tomātus un gurķus.</text>
+                <Opinions />
+            </sentence>
+            <sentence id="lv_EzitisMigla_000000002:1">
+                <text>Atnesa abas porcijas bez salātiem (colesaw un biešu), un ar tomātu un gurķi.</text>
+                <Opinions>
+                    <Opinion target="porcijas" category="FOOD#QUALITY" polarity="" from="12" to="20" />
+				</Opinions>
+            </sentence>
+            <sentence id="lv_EzitisMigla_000000002:2">
+                <text>Vienai porcijai bija uz pusi vairāk frī nekā otrai, lai gan sūtījām vienādus izmērus.</text>
+				<Opinions>
+                    <Opinion target="porcijai" category="FOOD#QUALITY" polarity="" from="7" to="15" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_EzitisMigla_000000002:3">
+                <text>Kad palūdzām noskaidrot kas ar salātiem, viesmīle teica, ka biešu salāti ir beigušies.</text>
+				<Opinions />
+            </sentence>
+			<sentence id="lv_EzitisMigla_000000002:4">
+                <text>Kad lūdzām noskaidrot par otriem salātiem (colesaw), kas nebija pievienoti, viesmīle to vienkārši noignorēja un turpināja apkalpot cilvēkus pie bāra.</text>
+				<Opinions>
+                    <Opinion target="viesmīle" category="SERVICE#GENERAL" polarity="" from="76" to="84" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_EzitisMigla_000000002:5">
+                <text>Pie tā visa apkalpošana ļoti ilga, lai saņemtu nepilnīgas porcijas pustukšā iestādē.</text>
+				<Opinions>
+                    <Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="12" to="23" />
+					<Opinion target="porcijas" category="FOOD#QUALITY" polarity="" from="58" to="66" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_EzitisMigla_000000002:6">
+                <text>Tikko kad bijām jau paēduši, pabeiguši rakstīt atsauksmi un jau taisījāmies doties prom, parādījās viesmīle ar diviem colesaw salātu šķīvjiem.</text>
+				<Opinions>
+                    <Opinion target="viesmīle" category="SERVICE#GENERAL" polarity="" from="99" to="107" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_EzitisMigla_000000002:7">
+                <text>Kaut ko tādu pieredzam pirmo reizi.</text>
+                <Opinions />
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="lv_EzitisMigla_000000003">
+        <sentences>
+            <sentence id="lv_EzitisMigla_000000003:0">
+                <text>Vieta, kur vienmēr gribas atgriezties!</text>
+				<Opinions>
+                    <Opinion target="Vieta" category="RESTAURANT#GENERAL" polarity="" from="0" to="5" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_EzitisMigla_000000003:1">
+                <text>Laba atmosfēra, jauka apkalpošana!</text>
+                <Opinions>
+                    <Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="5" to="14" />
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="22" to="33" />
+				</Opinions>
+            </sentence>
+            <sentence id="lv_EzitisMigla_000000003:2" OutOfScope="TRUE">
+                <text>Jo vairāk veic pasūtījumus, jo lielāka iespēja tikt pie atlaidēm!</text>
+                <Opinions />
+            </sentence>
+			<sentence id="lv_EzitisMigla_000000003:3">
+                <text>Lēts alus, adekvātas cenas ēdieniem, garšīgi!</text>
+				<Opinions>
+                    <Opinion target="alus" category="DRINKS#PRICES" polarity="" from="5" to="9" />
+					<Opinion target="ēdieniem" category="FOOD#PRICES" polarity="" from="27" to="35" />
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+            </sentence>
+			<sentence id="lv_EzitisMigla_000000003:4">
+                <text>Noteikti iesaku apmeklēt šo vietu!</text>
+				<Opinions>
+                    <Opinion target="vietu" category="RESTAURANT#GENERAL" polarity="" from="28" to="33" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="lv_KeyToRiga_000000001">
+        <sentences>
+            <sentence id="lv_KeyToRiga_000000001:0">
+                <text>Patīkami pārsteidza pavasara epidēmijas laikā.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_KeyToRiga_000000001:1">
+                <text>Tā vietā, lai žēlotos, vienkārši strādāja un iepriecināja ar saules baudīšanas iespējām Doma laukumā.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="lv_KeyToRiga_000000002">
+        <sentences>
+            <sentence id="lv_KeyToRiga_000000002:0">
+                <text>Jauka āra terase skaistā vietā, Doma laukuma malā.</text>
+				<Opinions>
+                    <Opinion target="terase" category="AMBIENCE#GENERAL" polarity="" from="10" to="16" />
+					<Opinion target="Doma laukuma malā" category="LOCATION#GENERAL" polarity="" from="32" to="49" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_KeyToRiga_000000002:1">
+                <text>Pusdienas laikā vasaras vidū tikai viens apkalpotājs, noskrējies un noguris.</text>
+                <Opinions>
+                    <Opinion target="apkalpotājs" category="SERVICE#GENERAL" polarity="" from="41" to="52" />
+				</Opinions>
+            </sentence>
+			<sentence id="lv_KeyToRiga_000000002:2">
+                <text>Pat uz dzērienu pasūtījumu ļoti ilgi jāgaida.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="lv_KeyToRiga_000000003">
+        <sentences>
+            <sentence id="lv_KeyToRiga_000000003:0">
+                <text>Jauka vieta pašā Vecrīgas sirdī, tikai žēl, ka apkalpošana ļoti lēna un nelaipna.</text>
+				<Opinions>
+                    <Opinion target="vieta" category="RESTAURANT#GENERAL" polarity="" from="6" to="11" />
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="47" to="58" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_KeyToRiga_000000003:1">
+                <text>Cilvēki gaidīja vienkārši dzērienus 15-20 minūtes.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+            </sentence>
+			<sentence id="lv_KeyToRiga_000000003:2">
+                <text>Pasūtītais ēdiens neatbilda aprakstam.</text>
+                <Opinions>
+                    <Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="11" to="17" />
+				</Opinions>
+            </sentence>
+			<sentence id="lv_KeyToRiga_000000003:3">
+                <text>Šī jau ir otrā vilšanās šajā restorānā.</text>
+                <Opinions>
+                    <Opinion target="restorānā" category="RESTAURANT#GENERAL" polarity="" from="29" to="38" />
+				</Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="lv_KeyToRiga_000000004">
+        <sentences>
+            <sentence id="lv_KeyToRiga_000000004:0">
+                <text>Oriģināli ēdienu nosaukumi.</text>
+				<Opinions>
+                    <Opinion target="ēdienu nosaukumi" category="FOOD#STYLE_OPTIONS" polarity="" from="10" to="26" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_KeyToRiga_000000004:1">
+                <text>Eleganta ēšanas vieta - bet arī cenas, hmm, ne kā ēdnīcā.</text>
+                <Opinions>
+                    <Opinion target="vieta" category="RESTAURANT#GENERAL" polarity="" from="16" to="21" />
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+            </sentence>
+			<sentence id="lv_KeyToRiga_000000004:2">
+                <text>Apkalpošana man nešķita ideāla - taču tas bija pasākumā ar lielu cilvēku skaitu, iespējams, mazākā klientu skaitā viss būtu labāk.</text>
+                <Opinions>
+                    <Opinion target="Apkalpošana" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+				</Opinions>
+            </sentence>
+			<sentence id="lv_KeyToRiga_000000004:3">
+                <text>Uz šādu vietu var atvest meiteni - lai radītu labu iespaidu.</text>
+                <Opinions>
+                    <Opinion target="vietu" category="RESTAURANT#GENERAL" polarity="" from="8" to="13" />
+				</Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="lv_OPaps_000000003">
+        <sentences>
+            <sentence id="lv_OPaps_000000003:0">
+                <text>Trīs gadus atpakaļ es atradu savu iecienītāko iestādi Rīgā — ģimenes krodziņu ar vietējo alu un gardām maltītēm. </text>
+                <Opinions>
+                    <Opinion target="iestādi" category="RESTAURANT#GENERAL" polarity="" from="46" to="53" />
+					<Opinion target="maltītēm" category="FOOD#QUALITY" polarity="" from="103" to="111" />
+					<Opinion target="alu" category="DRINKS#STYLE_OPTIONS" polarity="" from="89" to="92" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_OPaps_000000003:1">
+                <text>Šeit vienmēr bija mājīga atmosfēra, un es ar prieku pavadīju laiku ar draugiem, zinot, ka atbalstu vietējo uzņēmējdarbību. </text>
+                <Opinions>
+                    <Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="25" to="34" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_OPaps_000000003:2">
+                <text>Tas bija mans iecienītākais vieta, kur vienmēr varēju atpūsties un baudīt kvalitatīvu apkalpošanu, jūtoties kā daļa no kaut kā īpaša.</text>
+                <Opinions>
+                    <Opinion target="vieta" category="RESTAURANT#GENERAL" polarity="" from="28" to="33" />
+					<Opinion target="apkalpošanu" category="SERVICE#GENERAL" polarity="" from="86" to="97" />
+                </Opinions>
+            </sentence>
+            <sentence id="lv_OPaps_000000003:3">
+                <text>Bet šodien viss mainījās.</text>
+                <Opinions />
+            </sentence>
+		    <sentence id="lv_OPaps_00000003:4">
+                <text>Tā vietā, lai justos siltumā un uzmanībā, ko sniedz darbinieki, es sastapu pilnīgu necieņu no puses no darbiniekiem, kuri acīmredzami nebija ieinteresēti sniegt kvalitatīvu apkalpošanu. </text>
+                <Opinions>
+                    <Opinion target="darbiniekiem" category="SERVICE#GENERAL" polarity="" from="103" to="115" />
+                </Opinions>
+            </sentence>
+		    <sentence id="lv_OPaps_000000003:5">
+                <text>Kad mēs pasūtījām ēdienus, pamanījām, ka atnesa nepareizu ēdienu daudzumu — daļu vienkārši aizmirsuši atnest.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_OPaps_000000003:6">
+                <text>Kad es vēršos pie viesmīļa, lai pārbaudītu rēķinu, viņš izturējās nekaunīgi, necieņā un pat nemēģināja labot situāciju. </text>
+                <Opinions>
+                    <Opinion target="viesmīļa" category="SERVICE#GENERAL" polarity="" from="18" to="26" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_OPaps_000000003:7">
+                <text>Nebija atvainošanās, ne centiena saprast, kas noticis — tikai vienaldzība un rupjība.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_OPaps_000000003:8">
+                <text>Šis krodziņš nav tikai vieta.</text>
+                <Opinions />
+            </sentence>
+			<sentence id="lv_OPaps_000000003:9">
+                <text>Tā ir ģimenes uzņēmējdarbība, kur katrs elements veido to pašu atmosfēru, ko es novērtēju.</text>
+                <Opinions />
+            </sentence>
+			<sentence id="lv_OPaps_000000003:10">
+                <text>Vietējais alus, gardas maltītes — viss tas ir svarīgi, bet ne mazāk svarīgi ir, kā darbinieki izturas pret saviem klientiem.</text>
+                <Opinions />
+            </sentence>
+			<sentence id="lv_OPaps_000000003:11">
+                <text>Un tieši tas mani visvairāk vilties.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_OPaps_000000003:12">
+                <text>Es saprotu, ka pieņemts personāls ne vienmēr var dalīties ar to pašu ģimenes uzņēmuma garu, bet tas, ko es piedzīvoju šodien, pārsniedza visas robežas.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_OPaps_000000003:13">
+                <text>Tagad, pēc šīs pieredzes, es vairs nevēlos atgriezties.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_OPaps_000000003:14">
+                <text>Krodziņš, kas trīs gadus bija mana iecienītākā vieta, vairs nebūs tāds man.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+            </sentence>
+			<sentence id="lv_OPaps_000000003:15">
+                <text>Tas nav tikai kļūda, tas ir uzticības pārkāpums.</text>
+                <Opinions />
+            </sentence>
+			<sentence id="lv_OPaps_000000003:16">
+                <text>Ja ģimenes uzņēmējdarbībā attieksme pret klientiem nav augstākajā līmenī, tas var sabojāt pat vislabāko vietu.</text>
+                <Opinions />
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="lv_OPaps_000000004">
+		<sentences>
+			<sentence id="lv_OPaps_000000004:0">
+				<text>Patīkama vieta, ņēmu midijas un brauniju, viss bija garšīgs un porcijas lielas.</text>
+				<Opinions>
+					<Opinion target="vieta" category="RESTAURANT#GENERAL" polarity="" from="9" to="14" />
+					<Opinion target="midijas" category="FOOD#QUALITY" polarity="" from="21" to="28" />
+					<Opinion target="brauniju" category="FOOD#QUALITY" polarity="" from="32" to="40" />
+					<Opinion target="porcijas" category="FOOD#STYLE_OPTIONS" polarity="" from="63" to="71" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000004:1">
+				<text>Midijas tiek pasniegtas ar frī kartupeļiem, kuri, manuprāt, ir lieki.</text>
+				<Opinions>
+					<Opinion target="frī kartupeļiem" category="FOOD#STYLE_OPTIONS" polarity="" from="27" to="42" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_OPaps_000000005">
+		<sentences>
+			<sentence id="lv_OPaps_000000005:0">
+				<text>Pirmo reizi apmeklēju šo vietu pēc drauga ieteikuma.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_OPaps_000000005:1">
+				<text>Laba vieta.</text>
+				<Opinions>
+					<Opinion target="vieta" category="RESTAURANT#GENERAL" polarity="" from="5" to="10" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000005:2">
+				<text>Biju piektdien dienas vidū.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_OPaps_000000005:3">
+				<text>Neskatoties, ka bija viena, oficiants ātri apkalpoja.</text>
+				<Opinions>
+					<Opinion target="oficiants" category="SERVICE#GENERAL" polarity="" from="28" to="37" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000005:4">
+				<text>Adekvātas cenas un kvalitāte.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+					<Opinion target="kvalitāte" category="FOOD#QUALITY" polarity="" from="19" to="28" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000005:5">
+				<text>Paldies personālam un īpašniekam.</text>
+				<Opinions>
+					<Opinion target="personālam" category="SERVICE#GENERAL" polarity="" from="8" to="18" />
+					<Opinion target="īpašniekam" category="RESTAURANT#GENERAL" polarity="" from="22" to="32" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_OPaps_000000006">
+		<sentences>
+			<sentence id="lv_OPaps_000000006:0">
+				<text>Uz terases stipra kanalizācijas smaka.</text>
+				<Opinions>
+					<Opinion target="kanalizācijas smaka" category="AMBIENCE#GENERAL" polarity="" from="18" to="37" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000006:1">
+				<text>Cepelīns lika mazliet vilties, bet porcijas lielums labs.</text>
+				<Opinions>
+					<Opinion target="Cepelīns" category="FOOD#QUALITY" polarity="" from="0" to="8" />
+					<Opinion target="porcijas lielums" category="FOOD#STYLE_OPTIONS" polarity="" from="35" to="51" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_GanBei_000000004">
+		<sentences>
+			<sentence id="lv_GanBei_000000004:0">
+				<text>Garšīgs ēdiens, bet viesmīlis neskaidri runāja latviešu valodā.</text>
+				<Opinions>
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="8" to="14" />
+					<Opinion target="viesmīlis" category="SERVICE#GENERAL" polarity="" from="20" to="29" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000004:1">
+				<text>Laikā, kad pieņēma mūsu pasūtījumu, neskatījās uz mums, bet kaut kur pa labi, pa kreisi.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000004:2">
+				<text>Neprofesionāla attieksme pret klientiem.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_GanBei_000000005">
+		<sentences>
+			<sentence id="lv_GanBei_000000005:0">
+				<text>Neskaitit to ka draudzenei ēdienā bija plastmasas gabaliņš un nekas netika darīts, man pasūtot papildus līdzņemšanai ēdienu Ganbei maisiņš nokrāsoja manu jaku sarkaniem pleķiem.</text>
+				<Opinions>
+					<Opinion target="plastmasas gabaliņš" category="FOOD#QUALITY" polarity="" from="39" to="58" />
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+					<Opinion target="maisiņš" category="RESTAURANT#MISCELLANEOUS" polarity="" from="131" to="138" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_GanBei_000000006">
+		<sentences>
+			<sentence id="lv_GanBei_000000006:0">
+				<text>Pašā Rīgas centrā.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_GanBei_000000006:1">
+				<text>Ērta piekļūšana - kāpnes, lifts.</text>
+				<Opinions>
+					<Opinion target="piekļūšana" category="RESTAURANT#GENERAL" polarity="" from="5" to="15" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000006:2">
+				<text>Pa blakus kāpnēm vai ar liftu var nokļūt uz jumtu, kurš piemērots Rīgas panorāmas vērošanai.</text>
+				<Opinions>
+					<Opinion target="jumtu" category="AMBIENCE#GENERAL" polarity="" from="44" to="49" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000006:3">
+				<text>Ēdiens garšīgs - kā jau visos Gan-bei.</text>
+				<Opinions>
+					<Opinion target="Ēdiens" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000006:4">
+				<text>Personāls patīkams, apkalpošana profesionāla.</text>
+				<Opinions>
+					<Opinion target="Personāls" category="SERVICE#GENERAL" polarity="" from="0" to="9" />
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="20" to="31" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000006:5">
+				<text>Iesaku.</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Ogle_000000004">
+		<sentences>
+			<sentence id="lv_Ogle_000000004:0">
+				<text>ēdnienu noformējums kā mākslas darbs.</text>
+				<Opinions>
+					<Opinion target="noformējums" category="FOOD#STYLE_OPTIONS" polarity="" from="8" to="19" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000004:1">
+				<text>pasniegšana un apkalpošana ļoti patika.</text>
+				<Opinions>
+					<Opinion target="pasniegšana" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="15" to="26" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000004:2">
+				<text>Padomāts par visu, arī restorāna noformejums atbilstoši nosaukumam.</text>
+				<Opinions>
+					<Opinion target="noformejums" category="AMBIENCE#GENERAL" polarity="" from="33" to="44" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000004:3">
+				<text>Restorāna nedēļas ietvaros.</text>
+				<Opinions />
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Ogle_000000005">
+		<sentences>
+			<sentence id="lv_Ogle_000000005:0">
+				<text>Ļoti laba atmosfēra restorānā.</text>
+				<Opinions>
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="10" to="19" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000005:1">
+				<text>Apmeklējām restorānu nedēļas ietvaros.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_Ogle_000000005:2">
+				<text>Bija diezgan daudz cilvēku, kas liecina, ka restorāns iecienīts.</text>
+				<Opinions>
+					<Opinion target="restorāns" category="RESTAURANT#GENERAL" polarity="" from="44" to="53" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000005:3">
+				<text>Mūs apkalpojošā viesmīle bija diezgan profesionāla un savu darbu pārzināja labi.</text>
+				<Opinions>
+					<Opinion target="viesmīle" category="SERVICE#GENERAL" polarity="" from="16" to="24" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000005:4">
+				<text>Ēdienu pasniegšanas veids bija izcils.</text>
+				<Opinions>
+					<Opinion target="pasniegšanas veids" category="FOOD#STYLE_OPTIONS" polarity="" from="7" to="25" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000005:5">
+				<text>Patika, ka ēdienus pasniedza ar pauzēm, tāpēc bija laiks papļāpāt.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000005:6">
+				<text>Porcijas bija pieklājīgas, lai neteiktu ka pat lielas.</text>
+				<Opinions>
+					<Opinion target="Porcijas" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="8" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000005:7">
+				<text>Beigās bijām ļooooti pieēdušies :)</text>
+				<Opinions />
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Ogle_000000006">
+		<sentences>
+			<sentence id="lv_Ogle_000000006:0">
+				<text>Bijām restorānu nedēļas ietvaros.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_Ogle_000000006:1">
+				<text>Fantastiska atmosfēra, pārsteidzoši ēdienu nofurmējumi , ļoti laipna un rūpīga apkalpošana.</text>
+				<Opinions>
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="12" to="21" />
+					<Opinion target="ēdienu nofurmējumi" category="FOOD#STYLE_OPTIONS" polarity="" from="36" to="54" />
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="79" to="90" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000006:2">
+				<text>10 no 10 :))</text>
+                <Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000004">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000004:0">
+				<text>Fantastika apkalopšana.</text>
+				<Opinions>
+					<Opinion target="apkalopšana" category="SERVICE#GENERAL" polarity="" from="11" to="22" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000004:1">
+				<text>Bārmene Annija bija ļoti jauka un pretimnākoša.</text>
+				<Opinions>
+					<Opinion target="Annija" category="SERVICE#GENERAL" polarity="" from="8" to="14" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000004:2">
+				<text>Dzērieni un ēdieni bija uz visiem 100.</text>
+				<Opinions>
+					<Opinion target="Dzērieni" category="DRINKS#QUALITY" polarity="" from="0" to="8" />
+					<Opinion target="ēdieni" category="FOOD#QUALITY" polarity="" from="12" to="18" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000004:3">
+				<text>Noteikti šeit vēlreiz atgriezīšos ;D</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000005">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000005:0">
+				<text>Grēcinieku ezītis ir kļuvis par manu mīļāko vietu, kur atnākt pastrādāt un paēst.</text>
+				<Opinions>
+					<Opinion target="Grēcinieku ezītis" category="RESTAURANT#GENERAL" polarity="" from="0" to="17" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000005:1">
+				<text>Ēdiens ir garšīgs, un pa dienu, kad nav daudz cilvēku, to pagatavo ļoti ātri.</text>
+				<Opinions>
+					<Opinion target="Ēdiens" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000005:2">
+				<text>Bārmeņi ir draudzīgi un vienmēr sagaida ar smaidu.</text>
+				<Opinions>
+					<Opinion target="Bārmeņi" category="SERVICE#GENERAL" polarity="" from="0" to="7" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000005:3">
+				<text>Nevarēju izdomāt, ko vēlos padzerties, mani pārsteidza ar garšīgu kokteili tieši manā gaumē.</text>
+				<Opinions>
+					<Opinion target="kokteili" category="DRINKS#QUALITY" polarity="" from="66" to="74" />
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000005:4">
+				<text>Pati vietiņa omulīga, un cenas nav sliktas.</text>
+				<Opinions>
+					<Opinion target="vietiņa" category="AMBIENCE#GENERAL" polarity="" from="5" to="12" />
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000005:5">
+				<text>Iesaku!</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000006">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000006:0">
+				<text>Pirmkārt, ja tiek apmācītas jaunas bārmenes kāpēc viņas neskatās recepšu grāmata vai jebkur citur kā uztaisīt dzērienus, bet vienkārši 20 min  stāv un gaida kad atnāks galvenā bārmene.</text>
+				<Opinions>
+					<Opinion target="jaunas bārmenes" category="SERVICE#GENERAL" polarity="" from="28" to="43" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000006:1">
+				<text>Otrkārt, pie tas bārmenes kura tiek apmācīti pajautājām mohito viņa teica ka neesot, labi pasūtījām citus dzērienus, pēc pāris minūtēm pienāca cita bārmene un pajautājām viņai vai tiešām nav mohito, jo mēs redzējām ka pie citiem galdiņiem tie tiek pienesti viņa teica ka ir.</text>
+				<Opinions>
+					<Opinion target="bārmenes" category="SERVICE#GENERAL" polarity="" from="17" to="25" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000006:2">
+				<text>Treškārt, neiedomājami lēna apkalpošana bija pietiekami daudz darbinieki un maz klientu.</text>
+				<Opinions>
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="28" to="39" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000007">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000007:0">
+				<text>Ierastais Ezītis bija slēgts, atnācu uz šo un esmo diezgan vīlies, ka mocarella standziņas ir bez siera, diezgan iespaidīgi.</text>
+				<Opinions>
+					<Opinion target="mocarella standziņas" category="FOOD#QUALITY" polarity="" from="70" to="90" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000007:1">
+				<text>Ieteiktu labojumu menu no mocarella standziņas uz mocarella trubiņas.</text>
+				<Opinions />
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_KeyToRiga_000000005">
+		<sentences>
+			<sentence id="lv_KeyToRiga_000000005:0">
+				<text>19.07.2023. aizvedu vakariņās savu biznesa partneri no Vācijas.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000005:1">
+				<text>Bija kauns..</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000005:2">
+				<text>Pelēkos zirņus pasniedza cietus, neizvārītus un tik maziņi.</text>
+				<Opinions>
+					<Opinion target="Pelēkos zirņus" category="FOOD#QUALITY" polarity="" from="0" to="14" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000005:3">
+				<text>Žāvētā gaļa - tik mazītiņš daudzums, kopumā - neēdami..</text>
+				<Opinions>
+					<Opinion target="Žāvētā gaļa" category="FOOD#QUALITY" polarity="" from="0" to="11" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000005:4">
+				<text>BBQ ribiņas uguni nebija redzējušas, apvārītas ūdenī un uzliktas uz šķīvja.</text>
+				<Opinions>
+					<Opinion target="BBQ ribiņas" category="FOOD#QUALITY" polarity="" from="0" to="11" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000005:5">
+				<text>Ribiņu iekšpusē auksti, biezi tauku slāņi, kas padarīja tās gandrīz neēdamas..</text>
+				<Opinions>
+					<Opinion target="tauku slāņi" category="FOOD#QUALITY" polarity="" from="30" to="41" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000005:6">
+				<text>Kartupelis ar biezpienu - kartupelis paciets, biezpiens bez garšvielām.</text>
+				<Opinions>
+					<Opinion target="Kartupelis ar biezpienu" category="FOOD#QUALITY" polarity="" from="0" to="23" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000005:7">
+				<text>Apkalpošana zem vidējā.</text>
+				<Opinions>
+					<Opinion target="Apkalpošana" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000005:8">
+				<text>Viesmīlim vienalga mūsu apkalpošana, jāmeklē un jāsauc pie galdiņa, lai ko pasūtītu.</text>
+				<Opinions>
+					<Opinion target="Viesmīlim" category="SERVICE#GENERAL" polarity="" from="0" to="9" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000005:9">
+				<text>Kopumā: pēdējo ~ 10 gadu negaršīgākais ko esmu baudījis!</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000005:10">
+				<text>Ak jā - lai viss nebūtu pavisam slikti, Valmiermuižas alus šeit bija garšīgs! :)</text>
+				<Opinions>
+					<Opinion target="Valmiermuižas alus" category="DRINKS#QUALITY" polarity="" from="40" to="58" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000005:11">
+				<text>Nekad vairs neapmeklēšu šo vietu!</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000005:12">
+				<text>NEIESAKU arī pārējiem..</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_KeyToRiga_000000006">
+		<sentences>
+			<sentence id="lv_KeyToRiga_000000006:0">
+				<text>Ļoti nebaudāms ēdiens.</text>
+				<Opinions>
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="15" to="21" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000006:1">
+				<text>Pasūtījām pelēkos zirņus ar speķi.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000006:2">
+				<text>Zirņi bija cieti, ar speķa gabaliem.</text>
+				<Opinions>
+					<Opinion target="Zirņi" category="FOOD#QUALITY" polarity="" from="0" to="5" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000006:3">
+				<text>Pirmo reizi ēdu tik negaršīgus pelēkos zirņus.</text>
+				<Opinions>
+					<Opinion target="pelēkos zirņus" category="FOOD#QUALITY" polarity="" from="31" to="45" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000006:4">
+				<text>Daudz kas no ēdienkartē norādītā nemaz nebija pieejams.</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000006:5">
+				<text>Viesmīlis nemācēja atbildēt uz jautājumiem par ēdiena sastāvdaļām.</text>
+				<Opinions>
+					<Opinion target="Viesmīlis" category="SERVICE#GENERAL" polarity="" from="0" to="9" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000006:6" OutOfScope="TRUE">
+				<text>Žēl Rīgas viesus, kuri izvēlas šo restorānu interjera un latviešu ēdienkartes dēļ (tāpat kā mēs) bet piedzīvo vilšanos un paliek ar iespaidu,ka latviešu tradicionālā virtuve ir kaut kas nebaudāms.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000006:7">
+				<text>Laikam vienīgā pozitīvā lieta ir interjers, kurš mums ļoti patika.</text>
+				<Opinions>
+					<Opinion target="interjers" category="AMBIENCE#GENERAL" polarity="" from="33" to="42" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_KeyToRiga_000000007">
+		<sentences>
+			<sentence id="lv_KeyToRiga_000000007:0">
+				<text>Jauki viesmīļi un ļoti laba apkalpošana.</text>
+				<Opinions>
+					<Opinion target="viesmīļi" category="SERVICE#GENERAL" polarity="" from="6" to="14" />
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="28" to="39" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000007:1">
+				<text>Bet pats galvenais ļoti garšīgi var pamieloties ar latvju sātīgo ēdienu, padzerties alu!</text>
+				<Opinions>
+					<Opinion target="ēdienu" category="FOOD#QUALITY" polarity="" from="65" to="71" />
+					<Opinion target="alu" category="DRINKS#QUALITY" polarity="" from="84" to="87" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000007:2">
+				<text>Protams atnākt vēl,neaizmirstami!</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_OPaps_000000007">
+		<sentences>
+			<sentence id="lv_OPaps_000000007:0">
+				<text>Pusdienu piedāvājums pa samērā labu cenu un laba kvalitāte, tiesa, gan nedaudz lotereja, jo dažkārt tikai desiņas un cena tā pati, ja paveicas, tad lieliski.</text>
+				<Opinions>
+					<Opinion target="Pusdienu piedāvājums" category="FOOD#QUALITY" polarity="" from="0" to="20" />
+					<Opinion target="Pusdienu piedāvājums" category="FOOD#PRICES" polarity="" from="0" to="20" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_OPaps_000000008">
+		<sentences>
+			<sentence id="lv_OPaps_000000008:0">
+				<text>Atnācām šodien uz šo vietu.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_OPaps_000000008:1">
+				<text>Piedāvāja apsēsties jebkurā vietā.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_OPaps_000000008:2">
+				<text>Kad izvelējāmies vienu no vietām.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_OPaps_000000008:3">
+				<text>Viesmīle pateica, kad šī vieta ir tikai lielām kompānijām.</text>
+				<Opinions>
+					<Opinion target="Viesmīle" category="SERVICE#GENERAL" polarity="" from="0" to="8" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000008:4">
+				<text>Tad nesapratu , priekškam bija jāpiedāvā jebkura vieta.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_OPaps_000000008:5">
+				<text>Ja zālē uz to momentu bija 7-8 cilvēki.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_OPaps_000000008:6">
+				<text>Diezgan nepatīkami.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_OPaps_000000009">
+		<sentences>
+			<sentence id="lv_OPaps_000000009:0">
+				<text>Lai gan izvēlējāmies sēdēt iekštelpās, vienalga neizdevās aizbēgt no cigarešu dūmiem.</text>
+				<Opinions>
+					<Opinion target="cigarešu dūmiem" category="AMBIENCE#GENERAL" polarity="" from="69" to="84" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000009:1">
+				<text>Apkalpošana familiāra,bet draudzīga.</text>
+				<Opinions>
+					<Opinion target="Apkalpošana" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000009:2">
+				<text>Par ēdienu sūdzību nav- porcija liela un viss bija garšīgs, kas arī ir pats galvenais ejot paēst ārpus mājām.</text>
+				<Opinions>
+					<Opinion target="ēdienu" category="FOOD#QUALITY" polarity="" from="4" to="10" />
+					<Opinion target="porcija" category="FOOD#STYLE_OPTIONS" polarity="" from="24" to="31" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_OPaps_000000010">
+		<sentences>
+			<sentence id="lv_OPaps_000000010:0">
+				<text>Liela alus un ruma izvēle.</text>
+				<Opinions>
+					<Opinion target="alus un ruma izvēle" category="DRINKS#STYLE_OPTIONS" polarity="" from="6" to="25" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000010:1">
+				<text>Ļoti draudzīgs īpašnieks.</text>
+				<Opinions>
+					<Opinion target="īpašnieks" category="SERVICE#GENERAL" polarity="" from="15" to="24" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000010:2">
+				<text>Ir pusdienu piedāvājumi pa ļoti draudzīgām cenām ar lielām porcijām.</text>
+				<Opinions>
+					<Opinion target="pusdienu piedāvājumi" category="FOOD#PRICES" polarity="" from="3" to="23" />
+					<Opinion target="porcijām" category="FOOD#STYLE_OPTIONS" polarity="" from="59" to="67" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000010:3">
+				<text>Pats ēdiens ļoti garšīgs un liks sajust sāta sajūtu.</text>
+				<Opinions>
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="5" to="11" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000010:4">
+				<text>Patīkama atmosfēra gan vienam, gan ar draugiem!</text>
+				<Opinions>
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="9" to="18" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_GanBei_000000007">
+		<sentences>
+			<sentence id="lv_GanBei_000000007:0">
+				<text>Pedeja laika vilusies šai restorana.</text>
+				<Opinions>
+					<Opinion target="restorana" category="RESTAURANT#GENERAL" polarity="" from="26" to="35" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000007:1">
+				<text>Ēdiens nevienmer ir SVAIGS...jau kuru reizi pēc pasutita paliek nelabi..Ipaši tas attiecas uz Lage kafe!!!!</text>
+				<Opinions>
+					<Opinion target="Ēdiens" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+					<Opinion target="Lage kafe" category="RESTAURANT#GENERAL" polarity="" from="94" to="103" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000007:2">
+				<text>Pirmo reizi nomierinaju sevi kā tikai liekas...bēt jau atkartoti sajutot to pašu pecgaršu sapratu ka tas ta ir.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_GanBei_000000007:3">
+				<text>Suši ir pieejama kvalitate tikai uz vietas restorana nevis uz mājam ņemot.</text>
+				<Opinions>
+					<Opinion target="Suši" category="FOOD#QUALITY" polarity="" from="0" to="4" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000007:4">
+				<text>Suši sabruk, izžuvuši....</text>
+				<Opinions>
+					<Opinion target="Suši" category="FOOD#QUALITY" polarity="" from="0" to="4" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_GanBei_000000008">
+		<sentences>
+			<sentence id="lv_GanBei_000000008:0">
+				<text>Gan Bei - Galleria Riga ir ļoti patīkams restorāns, kurā baudīt izcilu Ķīnas virtuvi.</text>
+				<Opinions>
+					<Opinion target="restorāns" category="RESTAURANT#GENERAL" polarity="" from="41" to="50" />
+					<Opinion target="Ķīnas virtuvi" category="FOOD#STYLE_OPTIONS" polarity="" from="71" to="84" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000008:1">
+				<text>Ēdieni ir garšīgi un daudzveidīgi, un atmosfēra ir ļoti draudzīga.</text>
+				<Opinions>
+					<Opinion target="Ēdieni" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="38" to="47" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000008:2">
+				<text>Izcili ēdieni, patīkama atmosfēra - noteikti vērts apmeklēt!</text>
+				<Opinions>
+					<Opinion target="ēdieni" category="FOOD#QUALITY" polarity="" from="7" to="13" />
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="24" to="33" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_GanBei_000000009">
+		<sentences>
+			<sentence id="lv_GanBei_000000009:0">
+				<text>Sestdien biju Gan bei Galerija Rīga, svinēju draudzenes dzimšanas dienu.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_GanBei_000000009:1">
+				<text>Apkalpošana ir vienkārši izcila!</text>
+				<Opinions>
+					<Opinion target="Apkalpošana" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000009:2">
+				<text>Neskatoties uz pilnu zāli viss bija atnests uz 5 cilvēkiem 25 minūšu laikā un nekas netika aizmirsts.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000009:3">
+				<text>Viesmīle ieteica garšīgu ēdienu un visi bija laimīgi!</text>
+				<Opinions>
+					<Opinion target="Viesmīle" category="SERVICE#GENERAL" polarity="" from="0" to="8" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Ogle_000000007">
+		<sentences>
+			<sentence id="lv_Ogle_000000007:0">
+				<text>Oficiants bez humora izjūtas!!</text>
+				<Opinions>
+					<Opinion target="Oficiants" category="SERVICE#GENERAL" polarity="" from="0" to="9" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000007:1">
+				<text>bruschetta bija līdziga vienkārśai sviestmaizei!</text>
+				<Opinions>
+					<Opinion target="bruschetta" category="FOOD#QUALITY" polarity="" from="0" to="10" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000007:2">
+				<text>Jāatzīst bija viss rezervēts,bet administrātors tomēr piedāvāja galdiņu +</text>
+				<Opinions>
+					<Opinion target="administrātors" category="SERVICE#GENERAL" polarity="" from="33" to="47" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000007:3">
+				<text>Agrāk šī vieta bija daudz labāka</text>
+				<Opinions>
+					<Opinion target="vieta" category="RESTAURANT#GENERAL" polarity="" from="9" to="14" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Ogle_000000008">
+		<sentences>
+			<sentence id="lv_Ogle_000000008:0">
+				<text>Man ļoti patika serviss.</text>
+				<Opinions>
+					<Opinion target="serviss" category="SERVICE#GENERAL" polarity="" from="16" to="23" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000008:1">
+				<text>Vielabāko iespaidu atstāja bārmenis Žeņa.</text>
+				<Opinions>
+					<Opinion target="Žeņa" category="SERVICE#GENERAL" polarity="" from="36" to="40" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000008:2">
+				<text>Debešķīgi kokteiļi, kuri nebija pat dzērienkartē.</text>
+				<Opinions>
+					<Opinion target="kokteiļi" category="DRINKS#QUALITY" polarity="" from="10" to="18" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000008:3">
+				<text>10 out of 10</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Ogle_000000009">
+		<sentences>
+			<sentence id="lv_Ogle_000000009:0">
+				<text>Vilšanās apmeklējot OGLE.</text>
+				<Opinions>
+                    <Opinion target="OGLE" category="RESTAURANT#GENERAL" polarity="" from="20" to="24" />
+                </Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000009:1">
+				<text>Apkalpošana nedaudz haotiska, mūsu pasūtījums bija ilgi jāgaida un tika atnests uzreiz pēc atgādināšanas un bija jau atdzisis.</text>
+				<Opinions>
+					<Opinion target="Apkalpošana" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000009:2">
+				<text>Neviens napaprasīja kā garšo ēdiens.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000009:3">
+				<text>Apkalpotāji nepārbauda vai nevajag jaunus dzērienus, kas arī bija ilgi jāgaida.</text>
+				<Opinions>
+					<Opinion target="Apkalpotāji" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000009:4">
+				<text>Picas bija ok, bet nekas īpašs.</text>
+				<Opinions>
+					<Opinion target="Picas" category="FOOD#QUALITY" polarity="" from="0" to="5" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000009:5">
+				<text>Viena zvaigzne par interjeru un atmosfēru.</text>
+				<Opinions>
+					<Opinion target="interjeru" category="AMBIENCE#GENERAL" polarity="" from="19" to="28" />
+					<Opinion target="atmosfēru" category="AMBIENCE#GENERAL" polarity="" from="32" to="41" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000009:6">
+				<text>Iespējams mums vienkārši nepaveicās, bet šoreiz nebija labi.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000008">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000008:0" OutOfScope="TRUE">
+				<text>Ir būts labākās un jaunākās vietas.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000008:1">
+				<text>Cilvēku darba dienā nebija daudz ,bet kopā cilvēkiem patīk šī vieta.</text>
+				<Opinions>
+					<Opinion target="vieta" category="RESTAURANT#GENERAL" polarity="" from="62" to="67" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000008:2">
+				<text>Bārmenis bija noguris un neapmierināts.</text>
+				<Opinions>
+					<Opinion target="Bārmenis" category="SERVICE#GENERAL" polarity="" from="0" to="8" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000008:3">
+				<text>Tūristi arī bija jo alkohola cenas šeit salīdzinoši lētas ar pārējām Vecrīgas vietām.</text>
+				<Opinions>
+					<Opinion target="alkohola" category="DRINKS#PRICES" polarity="" from="20" to="28" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000009">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000009:0">
+				<text>Apmeklēju ar savu bērnības čomu Ezīti Miglā 13.07.2024.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000009:1">
+				<text>Ļoti burvīga vieta!</text>
+				<Opinions>
+					<Opinion target="vieta" category="RESTAURANT#GENERAL" polarity="" from="13" to="18" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000009:2">
+				<text>Bārmeņi ļoti prasmīgi un galvenais ātri apkalpo klientus.</text>
+				<Opinions>
+					<Opinion target="Bārmeņi" category="SERVICE#GENERAL" polarity="" from="0" to="7" />
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000009:3">
+				<text>Ļoti profesionāli!</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000009:4">
+				<text>Paldies liels!</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000009:5">
+				<text>Noteikti nākšu uz šejieni vēl!</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000010">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000010:0">
+				<text>Verry sad story..</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:1">
+				<text>Ienākot redzam - kādi 4 aizņemti galdiņi, 5 nenovākti galdi..</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:2">
+				<text>Vesels bars (5-6) darbinieki dodas uzpīpēt pie aizmugures durvīm.</text>
+				<Opinions>
+					<Opinion target="darbinieki" category="SERVICE#GENERAL" polarity="" from="18" to="28" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:3">
+				<text>Ejot garām, redzam, kā izskatās virtuve.. viss netīrs, nekārtīgs, apmeklētājiem redzams un absolūti nepievilcīgs!</text>
+				<Opinions>
+					<Opinion target="virtuve" category="RESTAURANT#GENERAL" polarity="" from="32" to="39" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:4">
+				<text>Tomēr pasūtam (Ēdien/dzērienkartes lipīgas no visām pusēm)...</text>
+				<Opinions>
+					<Opinion target="Ēdien/dzērienkartes" category="RESTAURANT#MISCELLANEOUS" polarity="" from="15" to="34" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:5">
+				<text>Mūs apkalpo laipna, bet neentuziastiska blondīne.</text>
+				<Opinions>
+					<Opinion target="blondīne" category="SERVICE#GENERAL" polarity="" from="40" to="48" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:6">
+				<text>Es palūdzu, lai arī notīra mūsu galda virsmu.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:7">
+				<text>20 min vēlāk 2 no 5 galdiņiem ir novākti.</text>
+				<Opinions>
+					<Opinion target="galdiņiem" category="RESTAURANT#GENERAL" polarity="" from="20" to="29" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:8">
+				<text>Pāris darbinieki žonglējot ar salātu kāpostu iziet no virtuves, piesēž pie viena no galdiņiem un aiziet(ar kāpostu).</text>
+				<Opinions>
+					<Opinion target="darbinieki" category="SERVICE#GENERAL" polarity="" from="6" to="16" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:9">
+				<text>Ēdienu (2 burgerus) nākas gaidīt 50 min (?..jo "pavāri" staigā apkārt ), tāpēc arī bija daudz laika novērojumiem..</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:10">
+				<text>Un, diemžēl, redzējām arī netīro virtuvi, durvis vaļā, paveras skats uz centrālāzijas standartiem...</text>
+				<Opinions>
+					<Opinion target="virtuvi" category="RESTAURANT#GENERAL" polarity="" from="33" to="40" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:11">
+				<text>Salvetes uz galdiņiem nebija atrodamas.</text>
+				<Opinions>
+					<Opinion target="Salvetes" category="RESTAURANT#MISCELLANEOUS" polarity="" from="0" to="8" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:12">
+				<text>Wc.. Vispār Netīrības rekords!</text>
+				<Opinions>
+					<Opinion target="Wc" category="RESTAURANT#MISCELLANEOUS" polarity="" from="0" to="2" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:13">
+				<text>Protams, wc papīrs nav..</text>
+				<Opinions>
+					<Opinion target="wc papīrs" category="RESTAURANT#MISCELLANEOUS" polarity="" from="9" to="18" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:14">
+				<text>Secinājums.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:15">
+				<text>Nav tā Ezīša kā pirms pāris gadiem.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:16">
+				<text>Darbinieku uzvedība liecina par klaju patvaļu, 0 motivācijas un nolaidību visos uzņėmuma līmeņos.</text>
+				<Opinions>
+					<Opinion target="Darbinieku" category="SERVICE#GENERAL" polarity="" from="0" to="10" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:17">
+				<text>Apetīte pazūd.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000010:18">
+				<text>Bēdīgi!</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_KeyToRiga_000000008">
+		<sentences>
+			<sentence id="lv_KeyToRiga_000000008:0">
+				<text>Interesants interjers, omulīgs un kafija vienkārši fantastiska.</text>
+				<Opinions>
+					<Opinion target="interjers" category="AMBIENCE#GENERAL" polarity="" from="12" to="21" />
+					<Opinion target="kafija" category="DRINKS#QUALITY" polarity="" from="34" to="40" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000008:1">
+				<text>Kafijas dēļ drīz apmeklēšu vēlreiz.</text>
+				<Opinions>
+                    <Opinion target="Kafijas" category="DRINKS#QUALITY" polarity="" from="0" to="7" />
+                </Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000008:2">
+				<text>Jauks personāls.</text>
+				<Opinions>
+					<Opinion target="personāls" category="SERVICE#GENERAL" polarity="" from="6" to="15" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_KeyToRiga_000000009">
+		<sentences>
+			<sentence id="lv_KeyToRiga_000000009:0">
+				<text>Labs skats uz Doma laukumu no terases, izcili laipna apkalpošana un ļoti garšīgas kartupeļu pankūkas.</text>
+				<Opinions>
+					<Opinion target="skats uz Doma laukumu" category="LOCATION#GENERAL" polarity="" from="5" to="26" />
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="53" to="64" />
+					<Opinion target="kartupeļu pankūkas" category="FOOD#QUALITY" polarity="" from="82" to="100" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000009:1">
+				<text>Noteikti jānāk vēl.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_KeyToRiga_000000010">
+		<sentences>
+			<sentence id="lv_KeyToRiga_000000010:0">
+				<text>Vieta ar stāstu un lielisku apkalpošanu.</text>
+				<Opinions>
+					<Opinion target="Vieta" category="RESTAURANT#GENERAL" polarity="" from="0" to="5" />
+					<Opinion target="apkalpošanu" category="SERVICE#GENERAL" polarity="" from="28" to="39" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000010:1">
+				<text>Ēdienkarte ir bagātīga un sātīga.</text>
+				<Opinions>
+					<Opinion target="Ēdienkarte" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="10" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000010:2">
+				<text>Katru reizi sanāk pasūtīt vairāk, nekā var apēst :)</text>
+				<Opinions />
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_KeyToRiga_000000011">
+		<sentences>
+			<sentence id="lv_KeyToRiga_000000011:0">
+				<text>Šī nebija labākā pieredze.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000011:1">
+				<text>Apkalpošana bija draudzīga, bet patiešām lēna.</text>
+				<Opinions>
+					<Opinion target="Apkalpošana" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000011:2">
+				<text>Ilgi starplaiki starp sēdēšanu, pasūtījuma pieņemšanu, ēdiena pienākšanu, šķīvju notīrīšanu un rēķina atnešanu.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000011:3">
+				<text>Ēdiens pats par sevi bija garšīgs, bet porcijas bija niecīgas un dārgas par pasniegto.</text>
+				<Opinions>
+					<Opinion target="Ēdiens" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+					<Opinion target="porcijas" category="FOOD#STYLE_OPTIONS" polarity="" from="39" to="47" />
+					<Opinion target="porcijas" category="FOOD#PRICES" polarity="" from="39" to="47" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000011:4">
+				<text>Es šaubos, ka jums būs slikta maltīte, taču tā noteikti nebūs patīkama.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_KeyToRiga_000000012">
+		<sentences>
+			<sentence id="lv_KeyToRiga_000000012:0">
+				<text>Apkalpotājs bija patīkams, mūsu ēdiens nebija pārāk ilgi jāgaida, cūkgaļa bija ļoti jauka, diemžēl manas sievas maltīte pamatā bija šķīvis ar fritētu stingru, kalmāru ēdienu, kas būtībā bija neēdams, sauss un auksts, kad darbiniekiem tika ieteikts neko komentēt.</text>
+				<Opinions>
+					<Opinion target="Apkalpotājs" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+					<Opinion target="cūkgaļa" category="FOOD#QUALITY" polarity="" from="66" to="73" />
+					<Opinion target="kalmāru ēdienu" category="FOOD#QUALITY" polarity="" from="159" to="173" />
+					<Opinion target="darbiniekiem" category="SERVICE#GENERAL" polarity="" from="221" to="233" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000012:1">
+				<text>no vai jūs vēlētos desertu.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000012:2">
+				<text>Vilšanās.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_OPaps_000000011">
+		<sentences>
+			<sentence id="lv_OPaps_000000011:0">
+				<text>Garšīgas ribiņas.</text>
+				<Opinions>
+					<Opinion target="ribiņas" category="FOOD#QUALITY" polarity="" from="9" to="16" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000011:1">
+				<text>Liela izvēle ēdienkartē.</text>
+				<Opinions>
+					<Opinion target="izvēle" category="FOOD#STYLE_OPTIONS" polarity="" from="6" to="12" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000011:2">
+				<text>Ātra apkalpošana.</text>
+				<Opinions>
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="5" to="16" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000011:3">
+				<text>Lielas porcijas.</text>
+				<Opinions>
+					<Opinion target="porcijas" category="FOOD#STYLE_OPTIONS" polarity="" from="7" to="15" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000011:4">
+				<text>Vieta kur tiešām var labi paēst.</text>
+				<Opinions>
+					<Opinion target="Vieta" category="RESTAURANT#GENERAL" polarity="" from="0" to="5" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_OPaps_000000012">
+		<sentences>
+			<sentence id="lv_OPaps_000000012:0">
+				<text>Ja atrodaties Rīgā, O’Paps noteikti ir jāapmeklē, jo īpaši viņu pelmeņu zupas dēļ!</text>
+				<Opinions>
+					<Opinion target="O’Paps" category="RESTAURANT#GENERAL" polarity="" from="20" to="26" />
+					<Opinion target="pelmeņu zupa" category="FOOD#QUALITY" polarity="" from="64" to="76" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000012:1">
+				<text>Šis ēdiens ir garšīgs, sāļš buljons ar sēnēm, zaļumiem un lieliski pagatavotiem pelmeņiem, kas pildīti ar gaļu.</text>
+				<Opinions>
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="4" to="10" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000012:2" OutOfScope="TRUE">
+				<text>Tradicionāli to pasniedz ar skābo krējumu pie sāniem, bet mēs to baudījām tieši tādu, kāds tas bija!</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_OPaps_000000012:3">
+				<text>Mājīgā atmosfēra un draudzīgais personāls padarīja mūsu apmeklējumu vēl labāku.</text>
+				<Opinions>
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="7" to="16" />
+					<Opinion target="personāls" category="SERVICE#GENERAL" polarity="" from="32" to="41" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000012:4">
+				<text>Turklāt viņiem ir lieliska vietējā alus izvēle, tāpēc neaizmirstiet lūgt ieteikumus.</text>
+				<Opinions>
+					<Opinion target="vietējā alus izvēle" category="DRINKS#STYLE_OPTIONS" polarity="" from="27" to="46" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000012:5">
+				<text>Ja meklējat autentiskas latviešu garšas mierīgā vidē, šī ir īstā vieta, kur būt!</text>
+				<Opinions>
+					<Opinion target="vieta" category="RESTAURANT#GENERAL" polarity="" from="65" to="70" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000012:6" OutOfScope="TRUE">
+				<text>Lai iegūtu sīkāku informāciju un citus mūsu labākos ceļojumu ieteikumus, skatiet mūsu pilno emuāra ziņu!</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_OPaps_000000013">
+		<sentences>
+			<sentence id="lv_OPaps_000000013:0">
+				<text>Šī ir lieliska vieta. Vietējais alus un vietējais ēdiens.</text>
+				<Opinions>
+					<Opinion target="vieta" category="RESTAURANT#GENERAL" polarity="" from="15" to="20" />
+					<Opinion target="Vietējais alus" category="DRINKS#STYLE_OPTIONS" polarity="" from="22" to="36" />
+					<Opinion target="vietējais ēdiens" category="FOOD#STYLE_OPTIONS" polarity="" from="40" to="56" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000013:1" OutOfScope="TRUE">
+				<text>Lai gan cepelīnu darba cūkgaļa tehniski ir lietuviska.</text>
+			</sentence>
+			<sentence id="lv_OPaps_000000013:2">
+				<text>Abi ēdieni bija garšīgi, vienkārši un zemnieciski.</text>
+				<Opinions>
+					<Opinion target="ēdieni" category="FOOD#QUALITY" polarity="" from="4" to="10" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000013:3">
+				<text>Tieši to, ko gribējām.</text>
+				<Opinions />
+			</sentence>
+			<Opinions />
+			<sentence id="lv_OPaps_000000013:4">
+				<text>Tas var būt mūsu "vietējais" visu mūsu uzturēšanās laiku.</text>
+				<Opinions />
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_FabrikasRestorans_000000001">
+		<sentences>
+			<sentence id="lv_FabrikasRestorans_000000001:0">
+				<text>Var sēdēt gan uz terases, gan iekštelpās.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000001:1">
+				<text>Uz terases ir patīkama atmosfēra, kur var novērot pilītes, bebrus un kaķīšus.</text>
+				<Opinions>
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="23" to="32" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000001:2">
+				<text>Personāls ļoti atsaucīgs, pozitīvs un izklaidējošs, noteikti radīja vēlmi atgriezties restorānā.</text>
+				<Opinions>
+					<Opinion target="Personāls" category="SERVICE#GENERAL" polarity="" from="0" to="9" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000001:3">
+				<text>Dzimšanas dienā uzsauca kūku ar auksto ledu, svecīti un beigās pašgatavotu Limoncello.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000001:4">
+				<text>Ēdieni izsmalcināti, garšīgi un dzērieni arī eleganti un baudāmi.</text>
+				<Opinions>
+					<Opinion target="Ēdieni" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+					<Opinion target="dzērieni" category="DRINKS#QUALITY" polarity="" from="32" to="40" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_FabrikasRestorans_000000002">
+		<sentences>
+			<sentence id="lv_FabrikasRestorans_000000002:0">
+				<text>Uz restorānu devāmies divatā, lai nosvinētu draudzenes dzimšanas dienu.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:1">
+				<text>Veicot rezervāciju jautāju, vai būtu iespējams noorganizēt kādu svecīti vakariņu beigās jubilārei?</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:2">
+				<text>Uz ko man atbildēja un teica- par visu parūpēsimies! :)</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:3">
+				<text>Ierodoties mūs sagaidīja, ierādīja galdiņu, paņēma un aiznesa virsdrēbes, atnesa ēdienkarti.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:4">
+				<text>Atmosfēra un apkalpošana ļoti patīkama.</text>
+				<Opinions>
+					<Opinion target="Atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="0" to="9" />
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="13" to="24" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:5">
+				<text>Viesmīlis super pieklājīgs, neuzbāzīgs, pozitīvs un ar humoru.</text>
+				<Opinions>
+					<Opinion target="Viesmīlis" category="SERVICE#GENERAL" polarity="" from="0" to="9" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:6">
+				<text>Lai arī ārā tumšs, skats pa logu joprojām paveras skaists gan uz Daugavu, gan izgaismoto pilsētu otrā krastā.</text>
+				<Opinions>
+					<Opinion target="skats pa logu" category="LOCATION#GENERAL" polarity="" from="19" to="32" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:7">
+				<text>Šajā restorānā bijām pirmo reizi.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:8">
+				<text>Ēdiens ļoooti gards un porcijas ir pieklājīgā izmērā.</text>
+				<Opinions>
+					<Opinion target="Ēdiens" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+					<Opinion target="porcijas" category="FOOD#STYLE_OPTIONS" polarity="" from="23" to="31" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:9">
+				<text>Uzkodās dalījām porciju ar mīdijām un piedevās paņēmām frī kartupeļus- un tie nebija standarta frī kartupeļi kādus biju iedomājies - patiesi gardi!</text>
+				<Opinions>
+					<Opinion target="frī kartupeļi" category="FOOD#QUALITY" polarity="" from="95" to="108" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:10">
+				<text>Pamatēdiens patiešām skaisti pasniegts un gards!</text>
+				<Opinions>
+					<Opinion target="Pamatēdiens" category="FOOD#QUALITY" polarity="" from="0" to="11" />
+					<Opinion target="Pamatēdiens" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="11" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:11">
+				<text>Izbaudījām!</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:12">
+				<text>Un pats vakara noslēgums ar svecīti..</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:13">
+				<text>Sīkumos neaprakstīšu, lai paliek noslēpumā, bet.. goda vārds- es tik sen nebiju izjutis tādu pārsteiguma sajūtu.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:14">
+				<text>Lai arī šis nebija paredzēts man, bet jubilārei- man acis un mute bija vaļā un sajūtas neaprakstāmas!</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:15">
+				<text>Jubilāres pārsteigums un emocijas uz visiem 100%.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:16">
+				<text>Atlikušo vakaru turpinājām jūsmoties par pieredzēto!</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:17">
+				<text>Jūs mūs patiesi pārsteidzāt!</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:18">
+				<text>Milzīgs paldies restorāna darbiniekiem, viesmīļiem, pavāriem, kuri šo vakaru padarīja lielisku!</text>
+				<Opinions>
+					<Opinion target="darbiniekiem" category="SERVICE#GENERAL" polarity="" from="26" to="38" />
+					<Opinion target="viesmīļiem" category="SERVICE#GENERAL" polarity="" from="40" to="50" />
+					<Opinion target="pavāriem" category="SERVICE#GENERAL" polarity="" from="52" to="60" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000002:19">
+				<text>Esam starā!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_FabrikasRestorans_000000003">
+		<sentences>
+			<sentence id="lv_FabrikasRestorans_000000003:0">
+				<text>16.09.2023.bijām uz branchu.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000003:1">
+				<text>Iepriekš tika pieteikti 12 pieaugušie un 4 bērni.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000003:2">
+				<text>Tas tika saskaņots un apstiprināts.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000003:3">
+				<text>Kopš pasūtīšanas brīža, gaidījām vairāk kā1h.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000003:4">
+				<text>Kad citiem jau vāca nost netīros traukus mums ēdiens vēl nebija atnests, lsi gan pasūtījām gatavos piedāvājumus no ēdienkartes.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000003:5">
+				<text>Tātad sagataves jau bija un daudzums arī bija zināms.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000003:6">
+				<text>Ēdiens ne ar ko īpašu neizcēlās un nepārsteidza.</text>
+				<Opinions>
+					<Opinion target="Ēdiens" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000003:7">
+				<text>Esam ļoti vīlušies.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000003:8">
+				<text>Kopā samaksājām 389.00</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000003:9">
+				<text>Pakalpojuma kvalitāte neatbilst cenai.</text>
+				<Opinions>
+					<Opinion target="Pakalpojuma kvalitāte" category="RESTAURANT#PRICES" polarity="" from="0" to="21" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000003:10">
+				<text>Neiesaku šo vietu.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_FabrikasRestorans_000000004">
+		<sentences>
+			<sentence id="lv_FabrikasRestorans_000000004:0">
+				<text>Draudzene veica rezervāciju manā vārda dienā uz plkst 21:00 restorāna terasē.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000004:1">
+				<text>Ieradāmies 20:55, paziņojām viesmīlim par ierašanos.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000004:2">
+				<text>Teica 5 minūtes uzgaidīt, lai pagaidam uz ielas un mūs pasauks.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000004:3">
+				<text>Nogaidijām tuvu 25 stāvot uz ielas un aizgājām prom, jo pie mums neviens tā arī nepienāca.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000004:4">
+				<text>Rezultātā svinības izčakarētas, jo tik vēlu bez rezervācijas citur ierasties nesanāca.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000004:5">
+				<text>Neiesaku.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000004:6">
+				<text>Izskatās, ka restorānam nav pietiekami darbinieku, lai piektdienas "zaparā" nodrošinātu normālu servisu.</text>
+				<Opinions>
+					<Opinion target="servisu" category="SERVICE#GENERAL" polarity="" from="96" to="103" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_FabrikasRestorans_000000005">
+		<sentences>
+			<sentence id="lv_FabrikasRestorans_000000005:0">
+				<text>Gadus 15 esmu apmeklējies šo restorānu, tik sliktu ēdienu kā vakar es saņēmu, wow...</text>
+				<Opinions>
+					<Opinion target="ēdienu" category="FOOD#QUALITY" polarity="" from="51" to="57" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000005:1">
+				<text>neviens no draugiem nebija gandarīts, bet burgers - vārīta kotlete, nevis cepta, atceroties slikti paliek....</text>
+				<Opinions>
+					<Opinion target="burgers" category="FOOD#QUALITY" polarity="" from="42" to="49" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000005:2">
+				<text>2x mēģinaja normali pagatavot, nesanāca, oficiants šokā, tik lielā ka arī bildēja.</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_OPaps_000000014">
+		<sentences>
+			<sentence id="lv_OPaps_000000014:0">
+				<text>Lieliska atmosfēra, garšīgs ēdiens (uzkodas un pamatēdiens), kā arī lielisks alus.</text>
+				<Opinions>
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="9" to="18" />
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="28" to="34" />
+					<Opinion target="alus" category="DRINKS#QUALITY" polarity="" from="77" to="81" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000014:1">
+				<text>Arī personāls ir ļoti ātrs un gādīgs.</text>
+				<Opinions>
+					<Opinion target="personāls" category="SERVICE#GENERAL" polarity="" from="4" to="13" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000014:2">
+				<text>Nāca paņemt kādu Ginesu, kas diemžēl jau bija pazudis, bet tomēr 10/10 ieteiktu. :)</text>
+				<Opinions>
+					<Opinion target="Ginesu" category="DRINKS#STYLE_OPTIONS" polarity="" from="17" to="23" />
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_OPaps_000000015">
+		<sentences>
+			<sentence id="lv_OPaps_000000015:0">
+				<text>Šī vieta ir neticami mājīga, ar garšīgiem ēdieniem un dzērieniem.</text>
+				<Opinions>
+					<Opinion target="vieta" category="AMBIENCE#GENERAL" polarity="" from="3" to="8" />
+					<Opinion target="ēdieniem" category="FOOD#QUALITY" polarity="" from="42" to="50" />
+					<Opinion target="dzērieniem" category="DRINKS#QUALITY" polarity="" from="54" to="64" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000015:1">
+				<text>Dekors ir unikāls un patiešām izceļ atmosfēru.</text>
+				<Opinions>
+					<Opinion target="Dekors" category="AMBIENCE#GENERAL" polarity="" from="0" to="6" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000015:2">
+				<text>Noteikti ir vērts apmeklēt!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_OPaps_000000016">
+		<sentences>
+			<sentence id="lv_OPaps_000000016:0">
+				<text>Lielisks krogs ar lielisku ēdienu.</text>
+				<Opinions>
+					<Opinion target="krogs" category="RESTAURANT#GENERAL" polarity="" from="9" to="14" />
+					<Opinion target="ēdienu" category="FOOD#QUALITY" polarity="" from="27" to="33" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000016:1">
+				<text>Es šeit biju pāris reizes sava īsā Rīgas brauciena laikā.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_OPaps_000000016:2">
+				<text>Alus bija labs, kā gaidīts, bet ēdiens, iespējams, pārsniedza manas cerības.</text>
+				<Opinions>
+					<Opinion target="Alus" category="DRINKS#QUALITY" polarity="" from="0" to="4" />
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="32" to="38" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000016:3">
+				<text>Ķiploku maize ir vienkārši nereāla.</text>
+				<Opinions>
+					<Opinion target="Ķiploku maize" category="FOOD#QUALITY" polarity="" from="0" to="13" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000016:4" OutOfScope="TRUE">
+				<text>Mums kā lietuviešiem šis ēdiens ir gandrīz katru reizi ar alu, bet nekad nav tik labs.</text>
+			</sentence>
+			<sentence id="lv_OPaps_000000016:5">
+				<text>Jums tas ir jāizmēģina.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000016:6">
+				<text>arī porcija ir milzīga, tāpat kā mērce, kas nāk līdzi.</text>
+				<Opinions>
+					<Opinion target="porcija" category="FOOD#STYLE_OPTIONS" polarity="" from="4" to="11" />
+					<Opinion target="mērce" category="FOOD#STYLE_OPTIONS" polarity="" from="33" to="38" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000016:7">
+				<text>Paldies, un es ieteiktu apmeklēt šo vietu, ja atrodaties pilsētā.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_GanBei_000000010">
+		<sentences>
+			<sentence id="lv_GanBei_000000010:0">
+				<text>Šodien iegāju ieturēt maltīti pirms treniņa tā bija kļūda.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_GanBei_000000010:1">
+				<text>Pirmkārt, ēdienkarti gaidīju ap 10 minūtēm.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000010:2">
+				<text>Otrkārt, ilgi gadīju oficianti lai veikt pasūtījumu tā nesagaidīju.</text>
+				<Opinions>
+					<Opinion target="oficianti" category="SERVICE#GENERAL" polarity="" from="21" to="30" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000010:3">
+				<text>Pietam, oficianti pulcējās pie sava darba galdiņa un skaļi apsprieda viesus uz terases.</text>
+				<Opinions>
+					<Opinion target="oficianti" category="SERVICE#GENERAL" polarity="" from="8" to="17" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000010:4">
+				<text>Aizgāju pēc 25 minūtēm.</text>
+				<Opinions />
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_GanBei_000000011">
+		<sentences>
+			<sentence id="lv_GanBei_000000011:0">
+				<text>Piezvanu restorānam un viesmīle nesaprot latviešu valodu.</text>
+				<Opinions>
+					<Opinion target="viesmīle" category="SERVICE#GENERAL" polarity="" from="23" to="31" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000011:1">
+				<text>Nespēj man atbildēt uz elementāriem jautājumiem.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_GanBei_000000012">
+		<sentences>
+			<sentence id="lv_GanBei_000000012:0">
+				<text>Atnesa nepareizo suši pasūtījumu.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000012:1">
+				<text>Kraukšķīgā medus vista nebija kraukšķīga un bija pārmēcēta medus mērcē, un ar vairāk sīpoliem nekā pati vista.</text>
+				<Opinions>
+					<Opinion target="Kraukšķīgā medus vista" category="FOOD#QUALITY" polarity="" from="0" to="22" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000012:2">
+				<text>Saldie suši ar zemeņu mērci bija ļoti neglīti sagriezti.</text>
+				<Opinions>
+					<Opinion target="Saldie suši" category="FOOD#QUALITY" polarity="" from="0" to="11" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000012:3">
+				<text>Tādus restorānā nevar nest klientiem.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_GanBei_000000012:4">
+				<text>Labāk iet uz citu Gan Bei.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_GanBei_000000013">
+		<sentences>
+			<sentence id="lv_GanBei_000000013:0">
+				<text>Pagājušajās brīvdienās svinējām dzimšanas dienu.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_GanBei_000000013:1">
+				<text>Viss bija ļoti garšīgi!</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000013:2">
+				<text>Ļoti laipna un ātra apkalpošana, neskatoties uz lielo apmeklētāju skaitu!</text>
+				<Opinions>
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="20" to="31" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Ogle_000000010">
+		<sentences>
+			<sentence id="lv_Ogle_000000010:0">
+				<text>Kolosāla vieta pašā Vecrīgas sirdī.</text>
+				<Opinions>
+					<Opinion target="vieta" category="RESTAURANT#GENERAL" polarity="" from="9" to="14" />
+					<Opinion target="Vecrīgas sirdī" category="LOCATION#GENERAL" polarity="" from="20" to="34" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000010:1">
+				<text>Lieliska apkalpošana, ātri pasniedz ēdienu.</text>
+				<Opinions>
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="9" to="20" />
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000010:2">
+				<text>Porcijas ļoti lielas un ļoti ļoti gardas.</text>
+				<Opinions>
+					<Opinion target="Porcijas" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="8" />
+					<Opinion target="Porcijas" category="FOOD#QUALITY" polarity="" from="0" to="8" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000010:3">
+				<text>No sirds iesaku šo restorānu apmeklēt ik vienam ;-)</text>
+				<Opinions>
+					<Opinion target="restorānu" category="RESTAURANT#GENERAL" polarity="" from="19" to="28" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Ogle_000000011">
+		<sentences>
+			<sentence id="lv_Ogle_000000011:0">
+				<text>Zemas kvalitātes vistas burgers un šašliks.</text>
+				<Opinions>
+					<Opinion target="vistas burgers" category="FOOD#QUALITY" polarity="" from="17" to="31" />
+					<Opinion target="šašliks" category="FOOD#QUALITY" polarity="" from="35" to="42" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000011:1">
+				<text>Vilšanās un izsviesta nauda.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000011:2">
+				<text>Kokteilis bija labs, bet ēdiens drausmīgs, un vēl par tādu cenu.</text>
+				<Opinions>
+					<Opinion target="Kokteilis" category="DRINKS#QUALITY" polarity="" from="0" to="9" />
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="25" to="31" />
+					<Opinion target="ēdiens" category="FOOD#PRICES" polarity="" from="25" to="31" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000011:3">
+				<text>Neadekvāti.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_Ogle_000000011:4">
+				<text>Pirmā un pēdējā reize kad ēdu šajā iestādē.</text>
+				<Opinions>
+					<Opinion target="iestādē" category="RESTAURANT#GENERAL" polarity="" from="35" to="42" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Ogle_000000012">
+		<sentences>
+			<sentence id="lv_Ogle_000000012:0">
+				<text>Ļoti ceru, ka viesmīle nodeva manu vēstījumu grill meistaram.</text>
+				<Opinions>
+					<Opinion target="viesmīle" category="SERVICE#GENERAL" polarity="" from="14" to="22" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000012:1">
+				<text>Man pasniegto teļa karbonādi apēdu, bet vakariņas izbaudītu vēl lieliskāk, ja karbonāde tiktu no uguns noņemta 6 min ātrāk.</text>
+				<Opinions>
+					<Opinion target="teļa karbonādi" category="FOOD#QUALITY" polarity="" from="14" to="28" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000012:2">
+				<text>Karbonāde pie kaula bij lieliska, bet tālāk no kaula bij grūti sagriezt un, protams, arī saēst.</text>
+				<Opinions>
+					<Opinion target="Karbonāde pie kaula" category="FOOD#QUALITY" polarity="" from="0" to="19" />
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000012:3">
+				<text>Viesmīle savu darbu zin, 50 %.</text>
+				<Opinions>
+					<Opinion target="Viesmīle" category="SERVICE#GENERAL" polarity="" from="0" to="8" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000012:4">
+				<text>Nedaudz vajadzētu iziet vēlreiz caur ēdienkartes īpatnībām.</text>
+				<Opinions />
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000011">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000011:0">
+				<text>Apmeklēju šo vietu "vēlajās vakariņās", vietai nav ne vainas - ēstuve/krogs pamatā orientēts uz jauniešu un pusaudžu kompānijām!</text>
+				<Opinions>
+					<Opinion target="vietai" category="RESTAURANT#GENERAL" polarity="" from="40" to="46" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000011:1">
+				<text>Mūzika un atmosfēra par to liecina!</text>
+				<Opinions>
+					<Opinion target="Mūzika" category="AMBIENCE#GENERAL" polarity="" from="0" to="6" />
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="10" to="19" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000011:2">
+				<text>Apkalpošana gan dzērienu, gan ēdienu ziņā bija laba un šķietami operatīva (neskatoties uz lielo noslodzi)!</text>
+				<Opinions>
+					<Opinion target="Apkalpošana" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000011:3">
+				<text>Tomēr šķita nedaudz nepieņemami, ka apkalpojošais personāls atklāti aiz letes lieto stipro alkoholu - interesanti vai šādu rīcību pieļauj amata apraksts?!</text>
+				<Opinions>
+					<Opinion target="apkalpojošais personāls" category="SERVICE#GENERAL" polarity="" from="36" to="59" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000012">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000012:0">
+				<text>Vienmer biju ezīša fans, taču šoreiz aizgāju ļoti vīlusies.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000012:1">
+				<text>Kokteiļi un atmosfēra vienmer ir bijusi laba.</text>
+				<Opinions>
+					<Opinion target="Kokteiļi" category="DRINKS#QUALITY" polarity="" from="0" to="8" />
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="12" to="21" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000012:2">
+				<text>Šoreiz nolēmām ezīti izvēlēties kā vietu, kur paēst.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000012:3">
+				<text>Gaidījām 45min precīzi.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000012:4">
+				<text>Pasūtīti bija 3 burgerīši.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000012:5">
+				<text>Kad ēdiens tika atnests diemžēl neatnesa galda piederumu, bet tas nekas traks.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000012:6">
+				<text>Burgeris izjuka un ļāva novērot jēlu gaļu.</text>
+				<Opinions>
+					<Opinion target="Burgeris" category="FOOD#QUALITY" polarity="" from="0" to="8" />
+					<Opinion target="jēlu gaļu" category="FOOD#QUALITY" polarity="" from="32" to="41" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000013">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000013:0">
+				<text>Neiesaku....</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000013:1">
+				<text>50% no ēdienkartes vispār nebija, tikai burgeri un uzkodas visā iestādē bija tikai 8 klienti.</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000013:2">
+				<text>Veselu stundu gaidīju uz burgeri.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000013:3">
+				<text>Friškas neēdamas un pārsālītas.</text>
+				<Opinions>
+					<Opinion target="Friškas" category="FOOD#QUALITY" polarity="" from="0" to="7" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000013:4">
+				<text>Darbinieki izskatījās nogarlaikojušies.</text>
+				<Opinions>
+					<Opinion target="Darbinieki" category="SERVICE#GENERAL" polarity="" from="0" to="10" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000013:5">
+				<text>Bļāviens....pat majonēze šamiem nebija.</text>
+				<Opinions>
+                    <Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_KeyToRiga_000000013">
+		<sentences>
+			<sentence id="lv_KeyToRiga_000000013:0">
+				<text>Restorāns vēsturiskajā centrā, kur var nobaudīt kādus tipiskus latviešu ēdienus.</text>
+				<Opinions>
+					<Opinion target="vēsturiskajā centrā" category="LOCATION#GENERAL" polarity="" from="10" to="29" />
+					<Opinion target="latviešu ēdienus" category="FOOD#STYLE_OPTIONS" polarity="" from="63" to="79" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000013:1">
+				<text>Vide ir diezgan neformāla, un iekārtojums, kas pārsvarā ir izgatavots no koka, vēlas piešķirt viduslaiku gaisotni.</text>
+				<Opinions>
+					<Opinion target="Vide" category="AMBIENCE#GENERAL" polarity="" from="0" to="4" />
+					<Opinion target="iekārtojums" category="AMBIENCE#GENERAL" polarity="" from="30" to="41" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000013:2">
+				<text>Ēdienkartē pārsvarā tiek piedāvāti gaļas ēdieni, no kuriem daži ir raksturīgi vietējiem un marķēti ar Latvijas karogu.</text>
+				<Opinions>
+					<Opinion target="gaļas ēdieni" category="FOOD#STYLE_OPTIONS" polarity="" from="35" to="47" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000013:3">
+				<text>Kvalitāte, īpaši šo vietējo ēdienu, nav slikta.</text>
+				<Opinions>
+					<Opinion target="vietējo ēdienu" category="FOOD#QUALITY" polarity="" from="20" to="34" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000013:4">
+				<text>Pakalpojums ir pieejams, bet, iespējams, pārāk daudz.</text>
+				<Opinions>
+					<Opinion target="Pakalpojums" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000013:5">
+				<text>Pienācīga vīnu izvēle, īpaši itāļu.</text>
+				<Opinions>
+					<Opinion target="vīnu izvēle" category="DRINKS#STYLE_OPTIONS" polarity="" from="10" to="21" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000013:6">
+				<text>Vidējās cenas.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_KeyToRiga_000000014">
+		<sentences>
+			<sentence id="lv_KeyToRiga_000000014:0">
+				<text>Key to Riga ir lielisks restorāns ar viduslaiku atmosfēru, lielisku ēdienu un augstākās klases apkalpošanu.</text>
+				<Opinions>
+					<Opinion target="restorāns" category="RESTAURANT#GENERAL" polarity="" from="24" to="33" />
+					<Opinion target="atmosfēru" category="AMBIENCE#GENERAL" polarity="" from="48" to="57" />
+					<Opinion target="ēdienu" category="FOOD#QUALITY" polarity="" from="68" to="74" />
+					<Opinion target="apkalpošanu" category="SERVICE#GENERAL" polarity="" from="95" to="106" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000014:1">
+				<text>Ļoti ieteicams, ja atrodaties šajā rajonā.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_KeyToRiga_000000015">
+		<sentences>
+			<sentence id="lv_KeyToRiga_000000015:0">
+				<text>Mēs iegriezāmies pirms vakara maltītes, lai painteresētos, vai viņi piedāvā glutēnu nesaturošas iespējas, un mums tika nodota ēdienkartes kopija pārlūkošanai.</text>
+				<Opinions>
+					<Opinion target="glutēnu nesaturošas iespējas" category="FOOD#STYLE_OPTIONS" polarity="" from="76" to="104" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000015:1">
+				<text>Tika paskaidrots, ka aizmugurē ir alerģiju saraksts, kas atbilst ciparam pie katras izvēlnes opcijas.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000015:2">
+				<text>Mums tas šķita noderīgi, jo šajā apgabalā nebija daudz citu restorānu, kas apkalpotu cilvēkus, kuriem nepieciešama glutēnu nesaturoša pārtika.</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000015:3">
+				<text>Mūsu pasūtītais ēdiens bija garšīgs un karsts, un mums nebija nekādu sūdzību par to, kas mums tika pasniegts.</text>
+				<Opinions>
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="16" to="22" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000015:4">
+				<text>Personāls bija ļoti draudzīgs, un dāma, kuru redzējām dienas sākumā, atcerējās mūs, kad atgriezāmies, bija ļoti laipna.</text>
+				<Opinions>
+					<Opinion target="Personāls" category="SERVICE#GENERAL" polarity="" from="0" to="9" />
+					<Opinion target="dāma" category="SERVICE#GENERAL" polarity="" from="34" to="38" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000015:5">
+				<text>Apkalpošana bija tik ātra, cik var gaidīt svaigi pagatavotiem ēdieniem, un tuksnesis bija jauks un bagātīgs.</text>
+				<Opinions>
+					<Opinion target="Apkalpošana" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+					<Opinion target="tuksnesis" category="FOOD#QUALITY" polarity="" from="75" to="84" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000015:6">
+				<text>Vienīgā problēma, ar kuru mēs saskārāmies, bija aperol spritz, kam trūka putu, bet tas joprojām bija jauks.</text>
+				<Opinions>
+					<Opinion target="aperol spritz" category="DRINKS#QUALITY" polarity="" from="48" to="61" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000015:7">
+				<text>Iesaku, jo izvēle ir liela.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_FabrikasRestorans_000000006">
+		<sentences>
+			<sentence id="lv_FabrikasRestorans_000000006:0">
+				<text>Nevienam neiesaku šo vietu svinēšanai, lai nebūtu nepatīkamas situācijas ar viesiem.</text>
+				<Opinions>
+					<Opinion target="vietu" category="RESTAURANT#GENERAL" polarity="" from="21" to="26" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000006:1">
+				<text>Norezervēju galdiņu uz pl. 13:00 lai nosvinētu dzimšanas dienu, pec pl. 15:00, pēkšņi tika prasīts atbrīvot galdiņu, bez iepriekš brīdinājuma, ka uz pl. 16:00 galds ir rezervēts citiem.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000006:2">
+				<text>Bija neērti savu viesu priekšā kā arī pašai bija izbojāti svētki.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000006:3" OutOfScope="TRUE">
+				<text>Šīs situācijas dēļ, bijām spiesti braukt citur.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000006:4">
+				<text>Vairs nevēlos šeit atgriezties!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_FabrikasRestorans_000000007">
+		<sentences>
+			<sentence id="lv_FabrikasRestorans_000000007:0">
+				<text>Ir pagājis laiks kopš bijām tur, domāju ka aizmiršīšu un nerakstīšu neko, bet tomēr izbojātais vakars neliek mieru.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000007:1">
+				<text>Slikta, nevīžīga apkalpošana, nemāk ieliet vīnu glāzē, aplēja sievas somu, izlēja uz galdauta, sajauca sulu ko pasūtījām bērnam.</text>
+				<Opinions>
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="17" to="28" />
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_FabrikasRestorans_000000008">
+		<sentences>
+			<sentence id="lv_FabrikasRestorans_000000008:0">
+				<text>Vieta ar raksturu.</text>
+				<Opinions>
+					<Opinion target="Vieta" category="RESTAURANT#GENERAL" polarity="" from="0" to="5" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000008:1">
+				<text>Interjers skaisti elegants, izceļas ar detaļām, bet neatņem uzmanību no ēdiena un kokteiļiem.</text>
+				<Opinions>
+					<Opinion target="Interjers" category="AMBIENCE#GENERAL" polarity="" from="0" to="9" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000008:2">
+				<text>Apkalpošana ļoti laipna un precīzi akurāta.</text>
+				<Opinions>
+					<Opinion target="Apkalpošana" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000008:3">
+				<text>Patiesi profesionāls personāls.</text>
+				<Opinions>
+					<Opinion target="personāls" category="SERVICE#GENERAL" polarity="" from="21" to="30" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000008:4">
+				<text>Izvēle ēdienkartē patiešām piemērota visiem.</text>
+				<Opinions>
+					<Opinion target="Izvēle" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="6" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000008:5">
+				<text>Edienu pagatavošana pārsteidzoši ātra, vai arī restorāna atmosfēra lika laikam pazust, bet abi varianti labi.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="57" to="66" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000008:6">
+				<text>Izbaudīju ēdienu no uzkodas līdz saldajam un kokteili un ne mirkli nenožēloju, gan izskats, gan kvalitāte, gan garša absolūti ekstravaganti ideāli.</text>
+				<Opinions>
+					<Opinion target="ēdienu" category="FOOD#QUALITY" polarity="" from="10" to="16" />
+					<Opinion target="kokteili" category="DRINKS#QUALITY" polarity="" from="45" to="53" />
+					<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="0" />
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000008:7">
+				<text>Viss uz šķīvja bija perfektā sabalansētā harmonijā, neko vairāk neko mazāk.</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000008:8">
+				<text>Izbaudīju katru mirkli šai vietā un noteikti iesaku.</text>
+				<Opinions>
+					<Opinion target="vietā" category="RESTAURANT#GENERAL" polarity="" from="27" to="32" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000008:9">
+				<text>Vasarā noteikti atgriezīšos, jo tad ēšana notiek uz ūdens.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_FabrikasRestorans_000000009">
+		<sentences>
+			<sentence id="lv_FabrikasRestorans_000000009:0">
+				<text>Bijām kāzu gadadienas pusdienās.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000009:1">
+				<text>Pasūtījām pamatēdienu un desertu.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000009:2">
+				<text>Piedāvāja arī maizi - piekritām.. atnesa sēklu maizīti un blakus uz šķīvja uzlēja eļļu un balzamiko mērci.</text>
+				<Opinions>
+					<Opinion target="maizīti" category="FOOD#STYLE_OPTIONS" polarity="" from="47" to="54" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000009:3">
+				<text>Man labāk patiktu, ja būtu maizīte pasniegta ar smēriņiem.</text>
+				<Opinions>
+					<Opinion target="maizīte" category="FOOD#STYLE_OPTIONS" polarity="" from="27" to="34" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000009:4">
+				<text>Pamatēdiens bija garšīgs, cena 17€ - vaidziņi bija ļoti mīksti, desertā ābolu cepiens ar saldējuma bumbu, pārliets ar karameļu mērci - 7€.</text>
+				<Opinions>
+					<Opinion target="Pamatēdiens" category="FOOD#QUALITY" polarity="" from="0" to="11" />
+					<Opinion target="vaidziņi" category="FOOD#QUALITY" polarity="" from="37" to="45" />
+					<Opinion target="ābolu cepiens ar saldējuma bumbu, pārliets ar karameļu mērci" category="FOOD#QUALITY" polarity="" from="72" to="132" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000009:5">
+				<text>Kopumā gardi..</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000009:6">
+				<text>Cenas šajā restorānā arī diezgan augstas... bija pamamatēdieni, kas maksāja vairāk kā 30€.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_FabrikasRestorans_000000009:7">
+				<text>Bet atmosfēra jauka.. skats uz Daugavu..</text>
+				<Opinions>
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="4" to="13" />
+					<Opinion target="skats uz Daugavu" category="LOCATION#GENERAL" polarity="" from="22" to="38" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_OPaps_000000017">
+		<sentences>
+			<sentence id="lv_OPaps_000000017:0">
+				<text>Mēs ieradāmies Rīgā 1. janvārī, tāpēc daudzas vietas bija slēgtas.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_OPaps_000000017:1">
+				<text>Tas ir laimīgs, jo tas mūs veda pa klusu ieliņu uz O’Paps!</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_OPaps_000000017:2">
+				<text>Iekšā bija tik mājīgi un silti, un darbinieki bija ļoti draudzīgi un efektīvi.</text>
+				<Opinions>
+					<Opinion target="NULL" category="AMBIENCE#GENERAL" polarity="" from="0" to="0" />
+					<Opinion target="darbinieki" category="SERVICE#GENERAL" polarity="" from="35" to="45" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000017:3">
+				<text>Mums visiem patika ēdiens, un mēs atgriezāmies tur, lai pusdienotu vēlreiz, pirms mūsu īsais ceļojums bija beidzies.</text>
+				<Opinions>
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="19" to="25" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000017:4">
+				<text>Ķiploku maize ir nenormāli laba.</text>
+				<Opinions>
+					<Opinion target="Ķiploku maize" category="FOOD#QUALITY" polarity="" from="0" to="13" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_OPaps_000000018">
+		<sentences>
+			<sentence id="lv_OPaps_000000018:0">
+				<text>Tipisks īru/angļu stila krogs centrā.</text>
+				<Opinions>
+					<Opinion target="krogs" category="RESTAURANT#GENERAL" polarity="" from="24" to="29" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000018:1">
+				<text>Mēbeles galvenokārt ir izgatavotas no koka, un atmosfēra ir ļoti silta un pazīstama.</text>
+				<Opinions>
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="47" to="56" />
+					<Opinion target="Mēbeles" category="AMBIENCE#GENERAL" polarity="" from="0" to="7" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000018:2">
+				<text>Ēdienkartē ir dažādas sviestmaizes ar hamburgeriem, vistas gaļa, desa un citas sastāvdaļas, dažādas gaļas, cepti ēdieni utt.</text>
+				<Opinions>
+					<Opinion target="Ēdienkartē" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="10" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000018:3">
+				<text>Alu izvēle gan krāna, gan pudelēs ir laba.</text>
+				<Opinions>
+					<Opinion target="Alu izvēle" category="DRINKS#STYLE_OPTIONS" polarity="" from="0" to="10" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000018:4">
+				<text>Izpalīdzīgs un draudzīgs personāls.</text>
+				<Opinions>
+					<Opinion target="personāls" category="SERVICE#GENERAL" polarity="" from="25" to="34" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000018:5">
+				<text>Cenas nav īpaši lētas, bet, ņemot vērā platību un produktu kvalitāti, tas ir labi.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_OPaps_000000019">
+		<sentences>
+			<sentence id="lv_OPaps_000000019:0">
+				<text>Pēc lielām pusdienām apstājos iedzert īru kafiju.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_OPaps_000000019:1">
+				<text>Kad pienāca kafija, neizskatījās, ka tai būtu pievienota Beilija.</text>
+				<Opinions>
+					<Opinion target="kafija" category="DRINKS#QUALITY" polarity="" from="12" to="18" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000019:2">
+				<text>Es pasūtīju papildu Beilija kadru.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_OPaps_000000019:3">
+				<text>Pēc pievienošanas izskatījās tā, kā vajadzēja.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_OPaps_000000019:4">
+				<text>Es pieprasīju čeku, un man teica, ka man C būs jāiet uz bāru, lai nosūtītu rēķinu!</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000019:5">
+				<text>Šis ir restorāns un nevienam citam bārā neprasīja maksāt, no manis tika iekasēta 11,50 eiro.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+					<Opinion target="NULL" category="DRINKS#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000019:6">
+				<text>NEIESAKU.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_GanBei_000000014">
+		<sentences>
+			<sentence id="lv_GanBei_000000014:0">
+				<text>Nedēļas laikā pabiju divreiz- dienas laikā un vakarā.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_GanBei_000000014:1">
+				<text>Abas reizes apkalpošana ļoti pavirša, oficiantes daudz ko aizmirst, sajauc.</text>
+				<Opinions>
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="12" to="23" />
+					<Opinion target="oficiantes" category="SERVICE#GENERAL" polarity="" from="38" to="48" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000014:2">
+				<text>Daļa vispār latviski neko nesaprot.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000014:3">
+				<text>Ēdiens ok.</text>
+				<Opinions>
+					<Opinion target="Ēdiens" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000014:4">
+				<text>Kokteiļiem cenas ok.</text>
+				<Opinions>
+					<Opinion target="cenas" category="DRINKS#PRICES" polarity="" from="11" to="16" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_GanBei_000000015">
+		<sentences>
+			<sentence id="lv_GanBei_000000015:0">
+				<text>Paldies par kārtējo gardo kūku uz mūsu svēkiem!</text>
+				<Opinions>
+					<Opinion target="kūku" category="FOOD#QUALITY" polarity="" from="26" to="30" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000015:1">
+				<text>Šoreiz kūka bija vairāk kā izcila(perfekta) visas 10 zvaigznes no mums visiem!</text>
+				<Opinions>
+					<Opinion target="kūka" category="FOOD#QUALITY" polarity="" from="7" to="11" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000015:2">
+				<text>Noteiktu ieteiktu visiem!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000015:3">
+				<text>Kvalitāte, cena un pats galvenais viegla komunikācija.</text>
+				<Opinions>
+					<Opinion target="Kvalitāte" category="FOOD#QUALITY" polarity="" from="0" to="9" />
+					<Opinion target="cena" category="FOOD#PRICES" polarity="" from="11" to="15" />
+					<Opinion target="komunikācija" category="SERVICE#GENERAL" polarity="" from="41" to="53" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000015:4">
+				<text>Visas manas daudzās vēlmes tika piepildītas vienā kūkā.</text>
+				<Opinions>
+					<Opinion target="kūkā" category="FOOD#QUALITY" polarity="" from="50" to="54" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_GanBei_000000015:5">
+				<text>Paldies Lage un Ganbei Galerija Rīga kolektīvam.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Ogle_000000013">
+		<sentences>
+			<sentence id="lv_Ogle_000000013:0">
+				<text>Pasta no augšas silta no lejas un pa malām auksta, ka arī pagadījās daudz čaumalas ar kurām gandrīz salauzu zobus.</text>
+				<Opinions>
+					<Opinion target="Pasta" category="FOOD#QUALITY" polarity="" from="0" to="5" />
+					<Opinion target="čaumalas" category="FOOD#QUALITY" polarity="" from="74" to="82" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000013:1">
+				<text>Tāda sajūta it kā tika sasildīta mikroviļņu krāsnī.</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Ogle_000000014">
+		<sentences>
+			<sentence id="lv_Ogle_000000014:0">
+				<text>Mazas porcijas, lai paēstu papildus jāsūta pica, piedevas par papildu maksu, kvalitāte neatbilst cenai.</text>
+				<Opinions>
+					<Opinion target="porcijas" category="FOOD#STYLE_OPTIONS" polarity="" from="6" to="14" />
+					<Opinion target="piedevas" category="FOOD#PRICES" polarity="" from="49" to="57" />
+					<Opinion target="NULL" category="FOOD#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Ogle_000000014:1">
+				<text>Tualete nesakopta.</text>
+				<Opinions>
+					<Opinion target="Tualete" category="RESTAURANT#MISCELLANEOUS" polarity="" from="0" to="7" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000014">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000014:0">
+				<text>Drausmīgi skaļa mūzika, nevar sarunāties, apkalpošana zem katras kritikas.</text>
+				<Opinions>
+					<Opinion target="mūzika" category="AMBIENCE#GENERAL" polarity="" from="16" to="22" />
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="42" to="53" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000014:1">
+				<text>Čekus neizsniedza, ēdiens šķita vecs un visam tam vēl vecs alus.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="19" to="25" />
+					<Opinion target="alus" category="DRINKS#QUALITY" polarity="" from="59" to="63" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000014:2">
+				<text>Uz jautājumu kāpēc pasniendzat skābu alu, atbilde bija ka visas pretenzijas varu uzdot piegādātājiem :D</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000014:3">
+				<text>Savu teritoriju nespēj sakopt, gar malām pievemts un nočurāta fasāde.</text>
+				<Opinions>
+					<Opinion target="teritoriju" category="RESTAURANT#MISCELLANEOUS" polarity="" from="5" to="15" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000014:4">
+				<text>Vienkārši murgs ne ēdināšanas iestāde.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000015">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000015:0">
+				<text>Bārmenis Andris bija vienkārši lielisks, apkalpošana ideāla, paprasija kas man garšo, kas nē un no tā izsecināja man precīzi piemērotu kokteili.</text>
+				<Opinions>
+					<Opinion target="Andris" category="SERVICE#GENERAL" polarity="" from="9" to="15" />
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="41" to="52" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000015:1">
+				<text>10/10 noteikti nākšu vēl!!!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000016">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000016:0">
+				<text>Drausmīgi skaļa mūzika, nevar sarunāties pat pie galda ar draugiem, bezgaumīga tā saucamā DJ automātiskā playlist un kolektīvs vienkārši sūta klientus visu tālāk uz citiem bāriem.</text>
+				<Opinions>
+					<Opinion target="mūzika" category="AMBIENCE#GENERAL" polarity="" from="16" to="22" />
+					<Opinion target="kolektīvs" category="SERVICE#GENERAL" polarity="" from="117" to="126" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000016:1">
+				<text>Čeku neizsniedza, tualete netīra un tikai viena kur rinda, visi iet čurāt uz ielas.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+					<Opinion target="tualete" category="RESTAURANT#MISCELLANEOUS" polarity="" from="18" to="25" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000016:2">
+				<text>Tas jaujam Rīgas mēram būs arī OK?</text>
+				<Opinions />
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000017">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000017:0">
+				<text>Vienmēr kaut kas nav no tā, kas ēdienkartē.</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000017:1">
+				<text>Šoreiz 40 minūtes jāgaida, citu reizi vispār aizmirsa par pasūtījumu.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000017:2">
+				<text>Pasūtu vienu, atnes kko citu, atkal kkas beidzies un nomaina ar kko citu nepajautājot.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000017:3">
+				<text>Vienam cilvēkam atnes, citiem vēl jāgaida.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000017:4">
+				<text>Vilšanās garša gaidot un saņemot ēdienu. :(</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_KeyToRiga_000000016">
+		<sentences>
+			<sentence id="lv_KeyToRiga_000000016:0">
+				<text>Viena zvaigzne, jo neviena zvaigzne nedarbojas!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000016:1">
+				<text>Apkalpošana ļoti slikta, 1,5 stundu gaidījām savu ēdienu, tad pirmās divas ēdienreizes sanāca ledus aukstas.</text>
+				<Opinions>
+					<Opinion target="Apkalpošana" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+					<Opinion target="ēdienreizes" category="FOOD#QUALITY" polarity="" from="75" to="86" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000016:2">
+				<text>Bijām 4, pārējiem diviem salāti nebija pēc vairāk kā 1,5h.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000016:3">
+				<text>Tad viņi aizgāja.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000016:4">
+				<text>Par salātiem vismaz nebija jāmaksā.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000016:5">
+				<text>Atrašanās vieta ir laba un tāpēc piesaista daudz tūristu.</text>
+				<Opinions>
+					<Opinion target="Atrašanās vieta" category="LOCATION#GENERAL" polarity="" from="0" to="15" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000016:6">
+				<text>Absolūti neatbilstoša cenas un vērtības attiecība.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_KeyToRiga_000000017">
+		<sentences>
+			<sentence id="lv_KeyToRiga_000000017:0">
+				<text>Parādīju veco Rīgu draugam, kurš pie mums nekad nebija viesojies.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000017:1">
+				<text>Bija vēls, un es gribēju vakariņot.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000017:2">
+				<text>Mēs devāmies uz šo restorānu Doma laukumā.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000017:3">
+				<text>Izvēlējāmies galdu iekštelpās.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000017:4">
+				<text>Pasūtījām jēra mēles ar pērļu miežiem, kalmāru gredzenus, tumšo alu un saldējumu.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000017:5">
+				<text>Viss bija ļoti garšīgi.</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000017:6">
+				<text>Mūs apkalpoja ļoti patīkams viesmīlis.</text>
+				<Opinions>
+					<Opinion target="viesmīlis" category="SERVICE#GENERAL" polarity="" from="28" to="37" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000017:7">
+				<text>Viss apkalpojošais personāls bija ļoti izpalīdzīgs.</text>
+				<Opinions>
+					<Opinion target="personāls" category="SERVICE#GENERAL" polarity="" from="19" to="28" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000017:8">
+				<text>Viesmīļi brīvi pārvalda svešvalodas.</text>
+				<Opinions>
+					<Opinion target="Viesmīļi" category="SERVICE#GENERAL" polarity="" from="0" to="8" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000017:9">
+				<text>Istabā bijām vieni, pārējie apmeklētāji sēdēja ārā.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000017:10">
+				<text>Lai būtu objektīvi, atzīmēju, ka ieejot cenrādis nesakrīt ar reālo.</text>
+				<Opinions>
+					<Opinion target="cenrādis" category="RESTAURANT#PRICES" polarity="" from="40" to="48" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000017:11">
+				<text>Īstais ir dārgāks.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000017:12">
+				<text>Cenu līmenis ir augsts.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000017:13">
+				<text>Niedres - 19 eiro.</text>
+				<Opinions />
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_KeyToRiga_000000018">
+		<sentences>
+			<sentence id="lv_KeyToRiga_000000018:0">
+				<text>Pilnīgs panākums.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000018:1">
+				<text>Skaistajā katedrāles laukumā fantastiska atmosfēra, paštaisīts ēdiens, pieejamas cenas, ēd 2 cilvēki par 25-30 €uros.</text>
+				<Opinions>
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="41" to="50" />
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="63" to="69" />
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+					<Opinion target="katedrāles laukumā" category="LOCATION#GENERAL" polarity="" from="10" to="28" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000018:2">
+				<text>Zupas ļoti labas, personāls ļoti draudzīgs un patīkams.</text>
+				<Opinions>
+					<Opinion target="Zupas" category="FOOD#QUALITY" polarity="" from="0" to="5" />
+					<Opinion target="personāls" category="SERVICE#GENERAL" polarity="" from="18" to="27" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_OPaps_000000020">
+		<sentences>
+			<sentence id="lv_OPaps_000000020:0">
+				<text>Super labs vistas burgers.</text>
+				<Opinions>
+					<Opinion target="vistas burgers" category="FOOD#QUALITY" polarity="" from="11" to="25" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000020:1">
+				<text>Kopumā apmierinošs laša ēdiens ar kartupeļu biezeni.</text>
+				<Opinions>
+					<Opinion target="laša ēdiens ar kartupeļu biezeni" category="FOOD#QUALITY" polarity="" from="19" to="51" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000020:2">
+				<text>Kartupeļu pankūkas ar balto mērci.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_OPaps_000000020:3">
+				<text>Laipni un sirsnīgs personāls.</text>
+				<Opinions>
+					<Opinion target="personāls" category="SERVICE#GENERAL" polarity="" from="19" to="28" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000020:4">
+				<text>Āra terase ar saulessargiem.</text>
+				<Opinions>
+					<Opinion target="terase" category="AMBIENCE#GENERAL" polarity="" from="4" to="10" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000020:5">
+				<text>Perfekta atmosfēra.</text>
+				<Opinions>
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="9" to="18" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_OPaps_000000021">
+		<sentences>
+			<sentence id="lv_OPaps_000000021:0">
+				<text>Dārgi.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000021:1">
+				<text>Dārgi.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000021:2">
+				<text>Dārgi.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000021:3">
+				<text>50 eiro par diviem hamburgeriem un trīs aliem.</text>
+				<Opinions>
+					<Opinion target="hamburgeriem" category="RESTAURANT#PRICES" polarity="" from="19" to="31" />
+					<Opinion target="aliem" category="RESTAURANT#PRICES" polarity="" from="40" to="45" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000021:4">
+				<text>Viņi jums nestāsta, ka viņi iekasē no jums 5 eiro par apkalpošanu vai ka vietējais alus, kas man iepriekšējā dienā maksāja 4,80 eiro, tagad ir 6,80 eiro.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000021:5">
+				<text>Es burtiski jutos apkrāpts…</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000021:6">
+				<text>Un šķiet, ka ne vienīgais.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_OPaps_000000021:7">
+				<text>Žēl.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_OPaps_000000021:8">
+				<text>Ja viņi būtu godīgi, iespējams, viņiem būtu vairāk klientu.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000018">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000018:0" OutOfScope="TRUE">
+				<text>Ar Pļavnieku Ezīti nevar pat salīdzināt.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000018:1" OutOfScope="TRUE">
+				<text>Ja Pļavniekos Jūs apkalpos ar smaidu, ātri un garšīgi, tad šeit...</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000018:2">
+				<text>Ļoti lēni, atnākot sestdienā no rīta, izrādās, ka dažas pozīcijas jau negatavo.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000018:3">
+				<text>Saldējumu izlase bērnam ir vienkārši plombīrs ar 1 zemeni un dažām mellenēm un šokolādes uzlējumu.</text>
+				<Opinions>
+					<Opinion target="Saldējumu izlase" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="16" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000018:4">
+				<text>Pie tā saldējums bija vecs - jūtams ledus vidū un ārējā saldējuma daļa jau kūst, kamēr tev to atnesis.</text>
+				<Opinions>
+					<Opinion target="saldējums" category="FOOD#QUALITY" polarity="" from="7" to="16" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000018:5">
+				<text>Īstenībā atgriezties vēlmes īpaši nav...</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000019">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000019:0">
+				<text>Ēdieni kļuvuši dārgāki un bezgaršīgāki.</text>
+				<Opinions>
+					<Opinion target="Ēdieni" category="RESTAURANT#PRICES" polarity="" from="0" to="6" />
+					<Opinion target="Ēdieni" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000019:1">
+				<text>Pat mērcēm garša ir nenosakāma.</text>
+				<Opinions>
+					<Opinion target="mērcēm" category="FOOD#QUALITY" polarity="" from="4" to="10" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000019:2">
+				<text>Komplektu vairs nav, bet par papildu 1.70 var nopirkt mikroskopisku saujiņu frī.</text>
+				<Opinions>
+					<Opinion target="Komplektu" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="9" />
+					<Opinion target="saujiņu frī" category="FOOD#PRICES" polarity="" from="68" to="79" />
+					<Opinion target="saujiņu frī" category="FOOD#QUALITY" polarity="" from="68" to="79" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000019:3">
+				<text>Par dzērieniem pudelēs bārs skaita 10 centu depozīta maksu, bet darbinieki tukšos traukus, tajā skaitā arī pudeles, novāc un paņem līdzi.</text>
+				<Opinions>
+					<Opinion target="darbinieki" category="SERVICE#GENERAL" polarity="" from="64" to="74" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000020">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000020:0">
+				<text>Ja gribas ballīti, šī būs īstā vieta!</text>
+				<Opinions>
+					<Opinion target="vieta" category="RESTAURANT#GENERAL" polarity="" from="31" to="36" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000020:1">
+				<text>Bārmenis Andris katru reizi pienākot pie letes pacēla garstāvokli uz 100%, 150%, 200% un iegrieza vēl lielāku ballīti nekā iepriekš.</text>
+				<Opinions>
+					<Opinion target="Andris" category="SERVICE#GENERAL" polarity="" from="9" to="15" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_EzitisMigla_000000021">
+		<sentences>
+			<sentence id="lv_EzitisMigla_000000021:0">
+				<text>Ārkārtīgi lēna apkalpošana, lielākā daļa no ēdieniem, kurus vēlējāmies pasūtīt, nebija pieejami - viss beidzies.</text>
+				<Opinions>
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="15" to="26" />
+					<Opinion target="ēdieniem" category="RESTAURANT#MISCELLANEOUS" polarity="" from="44" to="52" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000021:1">
+				<text>Un tas ir dienas vidū.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_EzitisMigla_000000021:2">
+				<text>Varbūt vajag pārvērtēt papildus darba rokas???</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#MISCELLANEOUS" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Forest_000000001">
+		<sentences>
+			<sentence id="lv_Forest_000000001:0">
+				<text>Brīnišķīga garšu pieredze!</text>
+                <Opinions>
+                    <Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000001:1">
+				<text>Devos uz randiņu ar tēti, izvēlējāmies 7 kārtu menu.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_Forest_000000001:2">
+				<text>Oh, tas bija 3 stundu ilgs baudījums!</text>
+                <Opinions>
+                    <Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+                </Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000001:3">
+				<text>Ļoti sabalansētas garšas un estētisks noformējums!</text>
+				<Opinions>
+					<Opinion target="garšas" category="FOOD#QUALITY" polarity="" from="18" to="24" />
+					<Opinion target="noformējums" category="FOOD#STYLE_OPTIONS" polarity="" from="38" to="49" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000001:4">
+				<text>Un viņu pašceptā maize - labākā ever.</text>
+				<Opinions>
+					<Opinion target="pašceptā maize" category="FOOD#QUALITY" polarity="" from="8" to="22" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000001:5">
+				<text>Lieliski pavadīts laiks!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000001:6">
+				<text>Paldies!!</text>
+				<Opinions />
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Forest_000000002">
+		<sentences>
+			<sentence id="lv_Forest_000000002:0">
+				<text>Pēc ilgāka laika iegriezos šajā vietā- apkalpošana ļoti patika, laipna, ātra, profesionāla.</text>
+				<Opinions>
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="39" to="50" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000002:1">
+				<text>Ēdienkarte ir ok, ir no kā izvēlēties, ēdiens ļoti garšīgs, gan es ar sēņu zupu, gan kolēģi ar savu izvēli bija ļoti apmierināti.</text>
+				<Opinions>
+					<Opinion target="Ēdienkarte" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="10" />
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="39" to="45" />
+					<Opinion target="sēņu zupu" category="FOOD#QUALITY" polarity="" from="70" to="79" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000002:2">
+				<text>Kā parasti, ja ir iespēja desertā izvēlēties fondantu, tad izvēle krīt uz šo variantu.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_Forest_000000002:3">
+				<text>Deserta izmērs salīdzinoši nedaudz mazāks kā citur, bet bagātīgāks, ar ievārījumiem un odziņām.</text>
+				<Opinions>
+					<Opinion target="Deserta izmērs" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="14" />
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000002:4">
+				<text>Pie priekšrocībām var minēt vasaras laikā baudīt ēdienreizi ārā uz terasītes.</text>
+				<Opinions>
+					<Opinion target="terasītes" category="AMBIENCE#GENERAL" polarity="" from="67" to="76" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000002:5">
+				<text>Pusdienlaikā nav daudz cilvēku, tapēc apkalpošana ir ātra un vari netraucēti sarunāties.</text>
+				<Opinions>
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="38" to="49" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000002:6">
+				<text>Cenu ziņā, pēdējos gados ir ievērojams kāpums un šis nebūs lētākais gals, bet es teiktu nedaudz virs vidējā restorānu cenu līmeņa, jārēķinās ar to, ka pie rēķina arī pieskaita 10% apkalpošanas maksu.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+					<Opinion target="apkalpošanas maksu" category="RESTAURANT#PRICES" polarity="" from="180" to="198" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000002:7">
+				<text>Kopumā mums viss ļoti patika, paldies!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000002:8">
+				<text>Ļoti labs serviss, ļoti garšīgi visas izvēles, kas ir ņemtas.</text>
+				<Opinions>
+					<Opinion target="serviss" category="SERVICE#GENERAL" polarity="" from="10" to="17" />
+					<Opinion target="izvēles" category="FOOD#QUALITY" polarity="" from="38" to="45" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000002:9">
+				<text>Iesaku noteikti šo vietu.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Forest_000000003">
+		<sentences>
+			<sentence id="lv_Forest_000000003:0">
+				<text>Ēdieni bija lieliski pagatavoti ar labu garšu līdzsvaru, un to noformējums bija visaugstākās kvalitātes.</text>
+				<Opinions>
+					<Opinion target="Ēdieni" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+					<Opinion target="Ēdieni" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="6" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000003:1">
+				<text>Pavāra tehnika bija nepārprotami iespaidīga, un viss garšoja garšīgi.</text>
+				<Opinions>
+					<Opinion target="Pavāra tehnika" category="SERVICE#GENERAL" polarity="" from="0" to="14" />
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_HarperWoolf_000000001">
+		<sentences>
+			<sentence id="lv_HarperWoolf_000000001:0">
+				<text>Mīļš paldies par fantastiskajām vakariņām, noteikti ēdiens tāds, kur citur ko tādu nenogaršosi, interjers- skaists, gaumīgs, elegants, padomāts par dažādiem sīkumiem, fona mūzika patīkama nomierinoša, pēc dienas garā skrējiena.</text>
+				<Opinions>
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="52" to="58" />
+					<Opinion target="interjers" category="AMBIENCE#GENERAL" polarity="" from="96" to="105" />
+					<Opinion target="mūzika" category="AMBIENCE#GENERAL" polarity="" from="172" to="178" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000001:1">
+				<text>Noteikti labākā siera kūka, kāda baudīta.</text>
+				<Opinions>
+					<Opinion target="siera kūka" category="FOOD#QUALITY" polarity="" from="16" to="26" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000001:2">
+				<text>Beidzot izdevās nogaršot fantastisku saldo vīnu, THÖRLE.</text>
+				<Opinions>
+					<Opinion target="saldo vīnu" category="DRINKS#QUALITY" polarity="" from="37" to="47" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000001:3">
+				<text>Mums ļoti noveicās ar viesmīli Samantu, šī viesmīle dabiski radīja sajūtu, ka viesi šeit ir gaidīti, visu cieņu jaunajai viesmīlei, īsta paraugstunda vecā kaluma viesmīļiem.</text>
+				<Opinions>
+					<Opinion target="Samantu" category="SERVICE#GENERAL" polarity="" from="31" to="38" />
+					<Opinion target="viesmīle" category="SERVICE#GENERAL" polarity="" from="43" to="51" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000001:4">
+				<text>Īsāk sakot, paldies par fantastisko vakaru, noteikti es un mana kompānija šeit atgriezīsies.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_HarperWoolf_000000002">
+		<sentences>
+			<sentence id="lv_HarperWoolf_000000002:0">
+				<text>Tas bija vienkārši ideāli.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000002:1">
+				<text>Ēdiens - sapnis.</text>
+				<Opinions>
+					<Opinion target="Ēdiens" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000002:2">
+				<text>Atmosfēra - brīnišķīga, un apkalpošana bija tik silta, jautra un lika justies gaidītam.</text>
+				<Opinions>
+					<Opinion target="Atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="0" to="9" />
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="27" to="38" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000002:3">
+				<text>Ir komanda, kas mīl savu "darbu".</text>
+				<Opinions>
+					<Opinion target="komanda" category="SERVICE#GENERAL" polarity="" from="3" to="10" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000002:4">
+				<text>Paldies par ideālo vakaru!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000002:5">
+				<text>Vienkārši liels WOOW</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000002:6" OutOfScope="TRUE">
+				<text>(Es ceru, ka Google tulkotājs nepieļaus lielas kļūdas).</text>
+				<Opinions />
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_HarperWoolf_000000003">
+		<sentences>
+			<sentence id="lv_HarperWoolf_000000003:0">
+				<text>Labākā restorānu nedēļas pieredze.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000003:1">
+				<text>Skaisti pasniegti ēdieni, garšu pārsteigumi, burvīgs interjers, klusināta atmosfēra, profesionāla apkalpošana.</text>
+				<Opinions>
+					<Opinion target="ēdieni" category="FOOD#STYLE_OPTIONS" polarity="" from="18" to="24" />
+					<Opinion target="interjers" category="AMBIENCE#GENERAL" polarity="" from="53" to="62" />
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="74" to="83" />
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="98" to="109" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000003:2">
+				<text>Īpaša garšu sajūsma par desertu, ābolu lazanju ar pīlādžu saldējumu.</text>
+				<Opinions>
+					<Opinion target="ābolu lazanju ar pīlādžu saldējumu" category="FOOD#QUALITY" polarity="" from="33" to="67" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000003:3">
+				<text>IZCILI, PALDIES!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Whitehouse_000000001">
+		<sentences>
+			<sentence id="lv_Whitehouse_000000001:0">
+				<text>Apmeklējām Rīgas restorānu nedēļā.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_Whitehouse_000000001:1">
+				<text>Jau ierodoties restorānā gaisā varēja just patīkamu atmosfēru, pateicoties sagaidīšanai un mūzikai, ko piedāvāja dīdžejs.</text>
+				<Opinions>
+					<Opinion target="atmosfēru" category="AMBIENCE#GENERAL" polarity="" from="52" to="61" />
+					<Opinion target="mūzikai" category="AMBIENCE#GENERAL" polarity="" from="91" to="98" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000001:2">
+				<text>Tika iesākts ar gardu šefpavāra komplimentu, kas tika ietīts slāpekļa dūmos, jauks šova elements.</text>
+				<Opinions>
+					<Opinion target="šefpavāra komplimentu" category="FOOD#QUALITY" polarity="" from="22" to="43" />
+					<Opinion target="šefpavāra komplimentu" category="FOOD#STYLE_OPTIONS" polarity="" from="22" to="43" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000001:3">
+				<text>Starterī bija arktiskās palijas tartars, kas kļuva par šī vakara favorītēdienu.</text>
+				<Opinions>
+					<Opinion target="arktiskās palijas tartars" category="FOOD#QUALITY" polarity="" from="14" to="39" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000001:4">
+				<text>Pamatēdienos gardi pagatavotas bija garneles ar kalmāriem “bisque” mērcē!</text>
+				<Opinions>
+					<Opinion target="garneles ar kalmāriem “bisque” mērcē" category="FOOD#QUALITY" polarity="" from="36" to="72" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000001:5">
+				<text>Šo noteikti varu ietiekt!</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000001:6">
+				<text>Otrs ēdiens bija flank steiks, kuru gribējās sulīgāku un labāk izceptu.</text>
+				<Opinions>
+					<Opinion target="flank steiks" category="FOOD#QUALITY" polarity="" from="17" to="29" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000001:7">
+				<text>Piedevas pie steika gan bija trāpīgas.</text>
+				<Opinions>
+					<Opinion target="Piedevas" category="FOOD#QUALITY" polarity="" from="0" to="8" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000001:8">
+				<text>Pirms deserta tika pasniegts otrs šefpavāra kompliments - pašgatavotas šokolādes konfektes. Gardi!</text>
+				<Opinions>
+					<Opinion target="šokolādes konfektes" category="FOOD#QUALITY" polarity="" from="71" to="90" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000001:9">
+				<text>Desertā tika piedāvāts tiramisu ar sabajona mērci un ananāsiem.</text>
+				<Opinions>
+					<Opinion target="tiramisu ar sabajona mērci un ananāsiem" category="FOOD#QUALITY" polarity="" from="23" to="62" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000001:10">
+				<text>Pie dzērieniem varu ieteikt džina kokteili Tallinn.</text>
+				<Opinions>
+					<Opinion target="džina kokteili Tallinn" category="DRINKS#QUALITY" polarity="" from="28" to="50" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000001:11">
+				<text>Kopumā varam teikt, ka izcili pavadīts vakars patīkamā atmosfērā!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+					<Opinion target="atmosfērā" category="AMBIENCE#GENERAL" polarity="" from="55" to="64" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Whitehouse_000000002">
+		<sentences>
+			<sentence id="lv_Whitehouse_000000002:0">
+				<text>Paldies par sirsnīgo uzņemšanu!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000002:1">
+				<text>Profesionāla apkalpošana, gards ēdiens, izcili kokteiļi no Daniela!</text>
+				<Opinions>
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="13" to="24" />
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="32" to="38" />
+					<Opinion target="kokteiļi" category="DRINKS#QUALITY" polarity="" from="47" to="55" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000002:2">
+				<text>P.S. - labākā pīle, ko esam ēduši!</text>
+				<Opinions>
+					<Opinion target="pīle" category="FOOD#QUALITY" polarity="" from="14" to="18" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Whitehouse_000000003">
+		<sentences>
+			<sentence id="lv_Whitehouse_000000003:0">
+				<text>Paldies par uzņemšanu!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000003:1">
+				<text>Izcils ēdiens un perfekti kokteiļi.</text>
+				<Opinions>
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="7" to="13" />
+					<Opinion target="kokteiļi" category="DRINKS#QUALITY" polarity="" from="26" to="34" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000003:2">
+				<text>Omulīga atmosfēra un kreatīva ēdienu/dzērienu prezentācija.</text>
+				<Opinions>
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="8" to="17" />
+					<Opinion target="ēdienu/dzērienu prezentācija" category="FOOD#STYLE_OPTIONS" polarity="" from="30" to="58" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000003:3">
+				<text>10/10, atgriezīšos.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Whitehouse_000000004">
+		<sentences>
+			<sentence id="lv_Whitehouse_000000004:0">
+				<text>No ēdienkartes nebija pieejami vairāki ēdieni, ko vēlējāmies.</text>
+				<Opinions>
+					<Opinion target="ēdieni" category="FOOD#STYLE_OPTIONS" polarity="" from="39" to="45" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000004:1">
+				<text>Arī austeres nebija pietiekošā skaitā.</text>
+				<Opinions>
+					<Opinion target="austeres" category="FOOD#STYLE_OPTIONS" polarity="" from="4" to="12" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000004:2">
+				<text>Ēdiens garšas ziņā nelikās nekas īpašs.</text>
+				<Opinions>
+					<Opinion target="Ēdiens" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000004:3">
+				<text>Apkalpošana bija jocīga un kopumā pieredze nebija patīkama.</text>
+				<Opinions>
+					<Opinion target="Apkalpošana" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_KeyToRiga_000000019">
+		<sentences>
+			<sentence id="lv_KeyToRiga_000000019:0">
+				<text>Lielisks atklājums pašā Rīgas sirdī, mūs piesaistīja viņu ēdienkarte, kas šķita autentiska un vietēja.</text>
+				<Opinions>
+					<Opinion target="ēdienkarte" category="FOOD#STYLE_OPTIONS" polarity="" from="58" to="68" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000019:1">
+				<text>Ļoti apmierināti ar to, ko pasūtījām.</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000019:2">
+				<text>Porcijas bija ļoti dāsnas UN garšīgas.</text>
+				<Opinions>
+					<Opinion target="Porcijas" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="8" />
+					<Opinion target="Porcijas" category="FOOD#QUALITY" polarity="" from="0" to="8" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000019:3">
+				<text>Es domāju, ka garšas bija oriģinālas un labi savienotas.</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000019:4">
+				<text>Apkalpošana bija korekta un laipna.</text>
+				<Opinions>
+					<Opinion target="Apkalpošana" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000019:5">
+				<text>Arī kokteiļi bija labi.</text>
+				<Opinions>
+					<Opinion target="kokteiļi" category="DRINKS#QUALITY" polarity="" from="4" to="12" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000019:6">
+				<text>Mēs ar nepacietību gaidām, kad varēsim atgriezties vēlreiz.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_KeyToRiga_000000020">
+		<sentences>
+			<sentence id="lv_KeyToRiga_000000020:0">
+				<text>Briesmīga vieta, viesmīļi lamājas viens uz otru, manis pasūtītie ēdieni bija baigā ķirbju zupa ar kazas sieru kā vēmekļi, nebija ne ķirbju sēklu, ne grauzdiņu, kā rakstīts ēdienkartē.</text>
+				<Opinions>
+					<Opinion target="vieta" category="RESTAURANT#GENERAL" polarity="" from="10" to="15" />
+					<Opinion target="viesmīļi" category="SERVICE#GENERAL" polarity="" from="17" to="25" />
+					<Opinion target="ķirbju zupa ar kazas sieru" category="FOOD#QUALITY" polarity="" from="83" to="109" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000020:1">
+				<text>Vispār šausmas par 9 eiro.</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+					<Opinion target="NULL" category="FOOD#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000020:2">
+				<text>Stroganovs ar biezeni, tikai bļodā kā suņiem, ar pieciem sīpolu gredzeniem virsū un pieciem marinētu gurķu gredzeniem.</text>
+				<Opinions>
+					<Opinion target="Stroganovs ar biezeni" category="FOOD#QUALITY" polarity="" from="0" to="21" />
+					<Opinion target="Stroganovs ar biezeni" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="21" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000020:3">
+				<text>Cena 16.50.</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000020:4">
+				<text>Cenas ir debesu augstumā par šādu kvalitāti.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000020:5">
+				<text>Briesmīgi netīra tualete.</text>
+				<Opinions>
+					<Opinion target="tualete" category="RESTAURANT#MISCELLANEOUS" polarity="" from="17" to="24" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_KeyToRiga_000000021">
+		<sentences>
+			<sentence id="lv_KeyToRiga_000000021:0">
+				<text>Jauka vieta, kas veidota ar viduslaiku gaisu (bet tas arī viss).</text>
+				<Opinions>
+					<Opinion target="vieta" category="RESTAURANT#GENERAL" polarity="" from="6" to="11" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000021:1">
+				<text>Apkalpošana bija...maksimāli viduvēja, kad teicām, ka gribam tikai kaut ko saldu un karstu dzērienu, esam zaudējuši visu uzmanību no viesmīļiem (vietējais bija 30% aizņemts, tāpēc nē, nebija pārāk noslogots)... pēc tam totāli ignorēts.</text>
+				<Opinions>
+					<Opinion target="Apkalpošana" category="SERVICE#GENERAL" polarity="" from="0" to="11" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_KeyToRiga_000000021:2">
+				<text>Ēdiens bija labs, nekas īpašs, bet godīgs un garšīgs.</text>
+				<Opinions>
+					<Opinion target="Ēdiens" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Forest_000000004">
+		<sentences>
+			<sentence id="lv_Forest_000000004:0">
+				<text>Ir papildus 10 procenti, kas nekur neparādās un par to nesaka.</text>
+				<Opinions>
+					<Opinion target="10 procenti" category="RESTAURANT#PRICES" polarity="" from="12" to="23" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000004:1">
+				<text>Respektīvi varētu būt dārgākā vieta restorānu nedēļas ietvaros.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Forest_000000005">
+		<sentences>
+			<sentence id="lv_Forest_000000005:0">
+				<text>Ļoti garšīgi, skaists noformējums, labas cenas.</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+					<Opinion target="noformējums" category="FOOD#STYLE_OPTIONS" polarity="" from="22" to="33" />
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000005:1">
+				<text>Noteikti vērts atgriezties!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000005:2">
+				<text>Starp ēdieniem pasniedz pārsteigumus no šefa.</text>
+				<Opinions>
+					<Opinion target="pārsteigumus no šefa" category="SERVICE#GENERAL" polarity="" from="24" to="44" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Forest_000000006">
+		<sentences>
+			<sentence id="lv_Forest_000000006:0">
+				<text>Izcils restorāns!</text>
+				<Opinions>
+					<Opinion target="restorāns" category="RESTAURANT#GENERAL" polarity="" from="7" to="16" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000006:1">
+				<text>Ļoti, ļoti garšīgi!</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000006:2">
+				<text>Lieliska, perfekta un ļoti laipna apkalpošana!</text>
+				<Opinions>
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="34" to="45" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000006:3">
+				<text>Biju ar lielu grupu vācu kolēģu - visi sajūsmā!</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_Forest_000000006:4">
+				<text>Iesaku!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Forest_000000007">
+		<sentences>
+			<sentence id="lv_Forest_000000007:0">
+				<text>Super garšīgie ēdieni, bet serviss un attieksme pret klientu :(…….</text>
+				<Opinions>
+					<Opinion target="ēdieni" category="FOOD#QUALITY" polarity="" from="15" to="21" />
+					<Opinion target="serviss" category="SERVICE#GENERAL" polarity="" from="27" to="34" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Forest_000000007:1">
+				<text>Gandrīz gribējām mainīt restorānu priekš mūsējam svinībām.</text>
+				<Opinions />
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_MelnieMuki_000000001">
+		<sentences>
+			<sentence id="lv_MelnieMuki_000000001:0">
+				<text>Atmosfēra laba.</text>
+				<Opinions>
+					<Opinion target="Atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="0" to="9" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000001:1">
+				<text>Laipni, smaidīgi, ar labu humoru oficianti.</text>
+				<Opinions>
+					<Opinion target="oficianti" category="SERVICE#GENERAL" polarity="" from="33" to="42" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000001:2">
+				<text>Ēdiens garšīgs.</text>
+				<Opinions>
+					<Opinion target="Ēdiens" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000001:3">
+				<text>Un bonusā mūsu Gaviļniekam tika pasniegts deserts ar svecīti. Tas bija ļoti jauki.</text>
+				<Opinions>
+					<Opinion target="deserts" category="FOOD#QUALITY" polarity="" from="42" to="49" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000001:4">
+				<text>Paldies.</text>
+				<Opinions />
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_MelnieMuki_000000002">
+		<sentences>
+			<sentence id="lv_MelnieMuki_000000002:0">
+				<text>Ja vēlaties gaidīt visparastāko ēdienu gandrīz pusotru stundu, tad šī būs īstā vieta!</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+					<Opinion target="ēdienu" category="FOOD#QUALITY" polarity="" from="32" to="38" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000002:1" OutOfScope="TRUE">
+				<text>Viss priekš ārzemniekiem, kuri otreiz neatnāks.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000002:2">
+				<text>Neiesaku.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_MelnieMuki_000000003">
+		<sentences>
+			<sentence id="lv_MelnieMuki_000000003:0">
+				<text>Svinējām draugiem kāzu jubileju.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000003:1">
+				<text>Ēdiens izcils, apkalpošana ļoti laba, atmosfēra jauka.</text>
+				<Opinions>
+					<Opinion target="Ēdiens" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="15" to="26" />
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="38" to="47" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000003:2">
+				<text>Noteikti iesaku.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000003:3">
+				<text>Cenas atbilstošas kvalitātei.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000003:4">
+				<text>Paldies personālam.</text>
+				<Opinions>
+					<Opinion target="personālam" category="SERVICE#GENERAL" polarity="" from="8" to="18" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_MelnieMuki_000000004">
+		<sentences>
+			<sentence id="lv_MelnieMuki_000000004:0">
+				<text>Pēc ilgāka laika apmeklēju šo restorānu.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000004:1">
+				<text>Apkalpojošais personāls ļoti laipns un atsaucīgs, ēdienkarte nav pārāk plaša, bet pietiekama katra gaumei.</text>
+				<Opinions>
+					<Opinion target="personāls" category="SERVICE#GENERAL" polarity="" from="14" to="23" />
+					<Opinion target="ēdienkarte" category="FOOD#STYLE_OPTIONS" polarity="" from="50" to="60" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000004:2">
+				<text>Cenu ziņā ir gājis uz augšu, Vecrīgas cenu vidējā līmenī vai nedaudz virs.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#PRICES" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000004:3">
+				<text>Porcijas izmēra ziņā pietiekamas.</text>
+				<Opinions>
+					<Opinion target="Porcijas" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="8" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000004:4">
+				<text>Garšas ziņā bija ok, bet vai ar kaut ko pārsteidza? Droši vien, ka nē.</text>
+				<Opinions>
+					<Opinion target="NULL" category="FOOD#QUALITY" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000004:5">
+				<text>Atmosfēras ziņā patika, jo pusdienlaikā ir iespējams saorganizēt tikšanos šajā vietā un netraucēti parunāties, diezgan brīvs un kluss.</text>
+				<Opinions>
+					<Opinion target="Atmosfēras" category="AMBIENCE#GENERAL" polarity="" from="0" to="10" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_MelnieMuki_000000005">
+		<sentences>
+			<sentence id="lv_MelnieMuki_000000005:0">
+				<text>Restorānu nedēļas piedāvājums bija garšīgs, radās vēlēšanās atnākt vēl.</text>
+				<Opinions>
+					<Opinion target="Restorānu nedēļas piedāvājums" category="FOOD#QUALITY" polarity="" from="0" to="29" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000005:1">
+				<text>Braunijs saldajā bija super.</text>
+				<Opinions>
+					<Opinion target="Braunijs" category="FOOD#QUALITY" polarity="" from="0" to="8" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000005:2">
+				<text>Atmosfēra patīkama, vienīgā viesmīle gan bija mazliet noskrējusies.</text>
+				<Opinions>
+					<Opinion target="Atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="0" to="9" />
+					<Opinion target="viesmīle" category="SERVICE#GENERAL" polarity="" from="28" to="36" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000005:3">
+				<text>Vienīgais ieteikums nepasniegt ēdienu uz kukurūzas graudiem.</text>
+				<Opinions />
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_MelnieMuki_000000006">
+		<sentences>
+			<sentence id="lv_MelnieMuki_000000006:0">
+				<text>Restorānu nedēļas piedāvājums bija liela vilšanās.</text>
+				<Opinions>
+					<Opinion target="Restorānu nedēļas piedāvājums" category="FOOD#QUALITY" polarity="" from="0" to="29" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000006:1">
+				<text>Uzkoda garšā vāja, vizuāli tāpat, pasniegta uz popkorna graudiem (?!).</text>
+				<Opinions>
+					<Opinion target="Uzkoda" category="FOOD#QUALITY" polarity="" from="0" to="6" />
+					<Opinion target="Uzkoda" category="FOOD#STYLE_OPTIONS" polarity="" from="0" to="6" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_MelnieMuki_000000006:2">
+				<text>Ravioli vidēji, labākais bija ikri.</text>
+				<Opinions>
+					<Opinion target="Ravioli" category="FOOD#QUALITY" polarity="" from="0" to="7" />
+					<Opinion target="ikri" category="FOOD#QUALITY" polarity="" from="30" to="34" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_HarperWoolf_000000004">
+		<sentences>
+			<sentence id="lv_HarperWoolf_000000004:0">
+				<text>Negaidīti viduvējs un izmisis restorāns - ēdiens nav slikts, bet ir viduvējs, lai arī ar tendenci uz izcilību, tomēr vairāki graujoši prastuma elementi šo izcilību apslāpē.</text>
+				<Opinions>
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="42" to="48" />
+					<Opinion target="restorāns" category="RESTAURANT#GENERAL" polarity="" from="30" to="39" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000004:1">
+				<text>Īpaši traucē gana agresīva un uzmācīga alkohola un citu dzērienu pietirgošana - tas sagrauj iespēju izbaudīt restorāna atmosfēru, jo jūties kā slaucama govs.</text>
+				<Opinions>
+					<Opinion target="alkohola un citu dzērienu" category="DRINKS#STYLE_OPTIONS" polarity="" from="39" to="64" />
+					<Opinion target="atmosfēru" category="AMBIENCE#GENERAL" polarity="" from="119" to="128" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000004:2">
+				<text>Īpatnējs senlaicīguma un modernisma savienojums it visā - interjers, ēdiens, apkalpojošā personāla apģērbs, galda piederumi.</text>
+				<Opinions>
+					<Opinion target="interjers" category="AMBIENCE#GENERAL" polarity="" from="58" to="67" />
+					<Opinion target="ēdiens" category="FOOD#STYLE_OPTIONS" polarity="" from="69" to="75" />
+					<Opinion target="apkalpojošā personāla apģērbs" category="SERVICE#GENERAL" polarity="" from="77" to="106" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_HarperWoolf_000000005">
+		<sentences>
+			<sentence id="lv_HarperWoolf_000000005:0">
+				<text>Estētiska un baudāma vieta!</text>
+				<Opinions>
+					<Opinion target="vieta" category="RESTAURANT#GENERAL" polarity="" from="21" to="26" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000005:1">
+				<text>Moderns dizains!</text>
+				<Opinions>
+					<Opinion target="dizains" category="AMBIENCE#GENERAL" polarity="" from="8" to="15" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000005:2">
+				<text>Ļoti patīkama un sirsnīga atmosfēra!</text>
+				<Opinions>
+					<Opinion target="atmosfēra" category="AMBIENCE#GENERAL" polarity="" from="26" to="35" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000005:3">
+				<text>Garšīgs ēdiens un izmeklēti vīni.</text>
+				<Opinions>
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="8" to="14" />
+					<Opinion target="vīni" category="DRINKS#QUALITY" polarity="" from="28" to="32" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000005:4">
+				<text>Ļoti laipna apkalpošana.</text>
+				<Opinions>
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="12" to="23" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000005:5">
+				<text>Izbaudīju vakaru.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_HarperWoolf_000000005:6">
+				<text>Iesaku!!</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Whitehouse_000000005">
+		<sentences>
+			<sentence id="lv_Whitehouse_000000005:0">
+				<text>Salīdzinot ar pirmo apmeklējuma reizi - diemžēl šoreiz pilnīgi pretējs viedoklis.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000005:1">
+				<text>8. marta vakariņas - ieradāmies 18:00, 19:50 pienāca viesmīlis, kas maigi sakot lika aizvākties, jo rezervācija esot 2 stundas un uz mūsu vietu jau gaida citas personas.</text>
+				<Opinions>
+					<Opinion target="viesmīlis" category="SERVICE#GENERAL" polarity="" from="53" to="62" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000005:2">
+				<text>Lieki pieminēt, ka mēs ēdienus gaidījām ilgi un 19:50 tikko bijām pēdējo kumosu no pamatēdiena ielikuši mutē.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000005:3">
+				<text>Nerunājot par desertu.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_Whitehouse_000000005:4">
+				<text>Tas mums gāja secen, jo ziniet.. 2 stundas..</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000005:5">
+				<text>Neatgriezīšos šeit noteikti, skumji, jo līdz 8. marta vakariņu pieredzei - šis mums bija iecienītākais restorāns.</text>
+				<Opinions>
+					<Opinion target="NULL" category="RESTAURANT#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Whitehouse_000000006">
+		<sentences>
+			<sentence id="lv_Whitehouse_000000006:0">
+				<text>Bija veikta rezervācija, atnāca apstiprinājums ar SMS.</text>
+				<Opinions />
+			</sentence>
+			<sentence id="lv_Whitehouse_000000006:1">
+				<text>Atnācot uz restorānu, pateica, ka rezervācijas nav un neka palīdzēt nevar, vietu nav.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000006:2">
+				<text>Ar tādu attieksmi pret klientiem neiesaku.</text>
+				<Opinions>
+					<Opinion target="NULL" category="SERVICE#GENERAL" polarity="" from="0" to="0" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000006:3">
+				<text>Ļoti nepatīkama situācija!</text>
+				<Opinions />
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="lv_Whitehouse_000000007">
+		<sentences>
+			<sentence id="lv_Whitehouse_000000007:0">
+				<text>Garšīgs un izsmalcināts ēdiens.</text>
+				<Opinions>
+					<Opinion target="ēdiens" category="FOOD#QUALITY" polarity="" from="24" to="30" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000007:1">
+				<text>Dažādi un interesanti kokteiļi, arī pēc pasūtījuma.</text>
+				<Opinions>
+					<Opinion target="kokteiļi" category="DRINKS#QUALITY" polarity="" from="22" to="30" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000007:2">
+				<text>Ļoti skaisti pasniegts šefpavāra kompliments.</text>
+				<Opinions>
+					<Opinion target="šefpavāra kompliments" category="FOOD#STYLE_OPTIONS" polarity="" from="23" to="44" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000007:3">
+				<text>Ļoti jauka un laipna apkalpošana, gaumīgs interjers.</text>
+				<Opinions>
+					<Opinion target="apkalpošana" category="SERVICE#GENERAL" polarity="" from="21" to="32" />
+					<Opinion target="interjers" category="AMBIENCE#GENERAL" polarity="" from="42" to="51" />
+				</Opinions>
+			</sentence>
+			<sentence id="lv_Whitehouse_000000007:4">
+				<text>Restorāns pelnīti iekļauts Michelin restorānu ceļvedī!</text>
+				<Opinions />
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
